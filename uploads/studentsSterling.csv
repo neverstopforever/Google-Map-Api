@@ -1,0 +1,611 @@
+name,address,grade,spcial needs
+Student 1,"13 Winding Way Rd, Sratford, NJ 08049",1,N
+Student 2,"3 Winding Way Rd, Sratford, NJ 08049",2,N
+Student 3,"11 Winding Way Rd, Sratford, NJ 08049",3,Y
+Student 4,"6 Winding Way Rd, Sratford, NJ 08049",4,N
+Student 5,"33 Winding Way Rd, Sratford, NJ 08049",5,N
+Student 6,"56 Winding Way Rd, Sratford, NJ 08049",6,N
+Student 7,"73 Winding Way Rd, Sratford, NJ 08049",7,Y
+Student 8,"84 Winding Way Rd, Sratford, NJ 08049",8,N
+Student 9,"86 Winding Way Rd, Sratford, NJ 08049",9,N
+Student 10,"114 Winding Way Rd, Sratford, NJ 08049",10,N
+Student 11,"9 A Sunnybrook Rd, Stratford, NJ 08084",11,N
+Student 12,"32 Sunnybrook Rd, Stratford, NJ 08084",12,N
+Student 13,"29 Sunnybrook Rd, Stratford, NJ 08084",1,N
+Student 14,"20 Sunnybrook Rd, Stratford, NJ 08084",2,N
+Student 15,"34 Sunnybrook Rd, Stratford, NJ 08084",3,N
+Student 16,"14 Sunnybrook Rd, Stratford, NJ 08084",4,N
+Student 17,"46 Sunnybrook Rd, Stratford, NJ 08084",5,N
+Student 18,"39 Sunnybrook Rd, Stratford, NJ 08084",6,Y
+Student 19,"37 Sunnybrook Rd, Stratford, NJ 08084",7,N
+Student 20,"35 Sunnybrook Rd, Stratford, NJ 08084",8,N
+Student 21,"43 Sunnybrook Rd, Stratford, NJ 08084",9,N
+Student 22,"40 Sunnybrook Rd, Stratford, NJ 08084",10,Y
+Student 23,"12 Sunnybrook Rd, Stratford, NJ 08084",11,N
+Student 24,"33 Sunnybrook Rd, Stratford, NJ 08084",12,N
+Student 25,"38 Sunnybrook Rd, Stratford, NJ 08084",1,N
+Student 26,"41 Sunnybrook Rd, Stratford, NJ 08084",2,N
+Student 27,"27 Sunnybrook Rd, Stratford, NJ 08084",3,N
+Student 28,"18 Sunnybrook Rd, Stratford, NJ 08084",4,N
+Student 29,"28 Sunnybrook Rd, Stratford, NJ 08084",5,N
+Student 30,"44 Sunnybrook Rd, Stratford, NJ 08084",6,N
+Student 31,"42 Sunnybrook Rd, Stratford, NJ 08084",7,N
+Student 32,"22 Sunnybrook Rd, Stratford, NJ 08084",8,N
+Student 33,"16 Sunnybrook Rd, Stratford, NJ 08084",9,N
+Student 34,"26 Sunnybrook Rd, Stratford, NJ 08084",10,N
+Student 35,"9 B Sunnybrook Rd, Stratford, NJ 08084",11,N
+Student 36,"45 Sunnybrook Rd, Stratford, NJ 08084",12,N
+Student 37,"19 Harvard Ave, Stratford, NJ 08084",1,N
+Student 38,"12 W Harvard Ave, Stratford, NJ 08084",2,N
+Student 39,"316 Harvard Ave, Stratford, NJ 08084",3,N
+Student 40,"208 Harvard Ave, Stratford, NJ 08084",4,N
+Student 41,"120 Harvard Ave, Stratford, NJ 08084",5,N
+Student 42,"16 Harvard Ave, Stratford, NJ 08084",6,N
+Student 43,"11 Harvard Ave, Stratford, NJ 08084",7,N
+Student 44,"103 Harvard Ave, Stratford, NJ 08084",8,N
+Student 45,"215 Harvard Ave, Stratford, NJ 08084",9,N
+Student 46,"12 Harvard Ave, Stratford, NJ 08084",10,N
+Student 47,"1 W Harvard Ave, Stratford, NJ 08084",11,N
+Student 48,"113 Harvard Ave, Stratford, NJ 08084",12,Y
+Student 49,"10 Harvard Ave, Stratford, NJ 08084",1,N
+Student 50,"110 Harvard Ave, Stratford, NJ 08084",2,N
+Student 51,"13 W Harvard Ave, Stratford, NJ 08084",3,N
+Student 52,"114 Harvard Ave, Stratford, NJ 08084",4,Y
+Student 53,"14 W Harvard Ave, Stratford, NJ 08084",5,N
+Student 54,"17 W Harvard Ave, Stratford, NJ 08084",6,N
+Student 55,"5 W Harvard Ave, Stratford, NJ 08084",7,N
+Student 56,"6 W Harvard Ave, Stafford Township, NJ 08084",8,N
+Student 57,"7 W Harvard Ave, Stratford, NJ 08084",9,N
+Student 58,"313 Harvard Ave, Stratford, NJ 08084",10,N
+Student 59,"121 Harvard Ave, Stratford, NJ 08084",11,N
+Student 60,"9 Harvard Ave, Stratford, NJ 08084",12,N
+Student 61,"9 W Harvard Ave, Stratford, NJ 08084",1,N
+Student 62,"211 Harvard Ave, Stratford, NJ 08084",2,N
+Student 63,"220 Harvard Ave, Stratford, NJ 08084",3,Y
+Student 64,"6 Harvard Ave, Stratford, NJ 08084",4,N
+Student 65,"305 Harvard Ave, Stratford, NJ 08084",5,N
+Student 66,"10 W Harvard Ave, Stratford, NJ 08084",6,N
+Student 67,"16 W Harvard Ave, Stratford, NJ 08084",7,Y
+Student 68,"101 Harvard Ave, Stratford, NJ 08084",8,N
+Student 69,"19 W Harvard Ave, Stratford, NJ 08084",9,N
+Student 70,"3 W Harvard Ave, Stratford, NJ 08084",10,N
+Student 71,"100 Harvard Ave, Stratford, NJ 08084",11,N
+Student 72,"315 Harvard Ave, Stratford, NJ 08084",12,N
+Student 73,"20 Harvard Ave, Stratford, NJ 08084",1,N
+Student 74,"145 Parkview Rd, Stratford, NJ 08084",2,N
+Student 75,"158 Parkview Rd, Stratford, NJ 08084",3,N
+Student 76,"155 Parkview Rd, Stratford, NJ 08084",4,N
+Student 77,"165 Parkview Rd, Stratford, NJ 08084",5,N
+Student 78,"113 Parkview Rd, Stratford, NJ 08084",6,N
+Student 79,"103 Parkview Rd, Stratford, NJ 08084",7,N
+Student 80,"160 Parkview Rd, Stratford, NJ 08084",8,N
+Student 81,"117 Parkview Rd, Stratford, NJ 08084",9,N
+Student 82,"121 Parkview Rd, Stratford, NJ 08084",10,N
+Student 83,"107 Parkview Rd, Stratford, NJ 08084",11,N
+Student 84,"105 Parkview Rd, Stratford, NJ 08084",12,N
+Student 85,"106 Parkview Rd, Stratford, NJ 08084",1,N
+Student 86,"144 Parkview Rd, Stratford, NJ 08084",2,N
+Student 87,"301 Cornell Ave, Stratford, NJ 08084",3,N
+Student 88,"321 Cornell Ave, Stratford, NJ 08084",4,N
+Student 89,"9 Cornell Ave, Stratford, NJ 08084",5,N
+Student 90,"314 Cornell Ave, Stratford, NJ 08084",6,N
+Student 91,"310 Cornell Ave, Stratford, NJ 08084",7,N
+Student 92,"10 Cornell Ave, Stratford, NJ 08084",8,N
+Student 93,"322 Cornell Ave, Stratford, NJ 08084",9,Y
+Student 94,"18 Cornell Ave, Stratford, NJ 08084",10,N
+Student 95,"19 Cornell Ave, Stratford, NJ 08084",11,N
+Student 96,"311 Cornell Ave, Stratford, NJ 08084",12,N
+Student 97,"218 Cornell Ave, Stratford, NJ 08084",1,Y
+Student 98,"230 Cornell Ave, Stratford, NJ 08084",2,N
+Student 99,"4 Drexel Ave, Stratford, NJ 08084",3,N
+Student 100,"18 Drexel Ave, Stratford, NJ 08084",4,N
+Student 101,"9 Drexel Ave, Stratford, NJ 08084",5,N
+Student 102,"12 Drexel Ave, Stratford, NJ 08084",6,N
+Student 103,"27 Drexel Ave, Stratford, NJ 08084",7,N
+Student 104,"6 Drexel Ave, Stratford, NJ 08084",8,N
+Student 105,"33 Drexel Ave, Stratford, NJ 08084",9,N
+Student 106,"24 Drexel Ave, Stratford, NJ 08084",10,N
+Student 107,"14 Drexel Ave, Stratford, NJ 08084",11,N
+Student 108,"29 Drexel Ave, Stratford, NJ 08084",12,Y
+Student 109,"8 Pennsylvania Ave, Stratford, NJ 08084",1,N
+Student 110,"38 Pennsylvania Ave, Stratford, NJ 08084",2,N
+Student 111,"13 Pennsylvania Ave, Stratford, NJ 08084",3,N
+Student 112,"40 Pennsylvania Ave, Stratford, NJ 08084",4,Y
+Student 113,"33 Pennsylvania Ave, Stratford, NJ 08084",5,N
+Student 114,"34 Pennsylvania Ave, Stratford, NJ 08084",6,N
+Student 115,"24 Pennsylvania Ave, Stratford, NJ 08084",7,N
+Student 116,"36 Pennsylvania Ave, Stratford, NJ 08084",8,N
+Student 117,"37 Pennsylvania Ave, Stratford, NJ 08084",9,N
+Student 118,"32 Pennsylvania Ave, Stratford, NJ 08084",10,N
+Student 119,"43 Pennsylvania Ave, Stratford, NJ 08084",11,N
+Student 120,"321 Chestnut St, Stratford, NJ 08084",12,N
+Student 121,"401 Chestnut St, Stratford, NJ 08084",1,N
+Student 122,"320 Chestnut St, Stratford, NJ 08084",2,N
+Student 123,"312 Chestnut St, Stratford, NJ 08084",3,N
+Student 124,"316 Chestnut St, Stratford, NJ 08084",4,N
+Student 125,"402 Chestnut St, Stratford, NJ 08084",5,N
+Student 126,"315 Chestnut St, Stratford, NJ 08084",6,N
+Student 127,"319 Chestnut St, Stratford, NJ 08084",7,N
+Student 128,"323 Chestnut St, Stratford, NJ 08084",8,N
+Student 129,"10 Timber Creek Rd, Stratford, NJ 08084",9,N
+Student 130,"5 Timber Creek Rd, Stratford, NJ 08084",10,N
+Student 131,"21 Timber Creek Rd, Stratford, NJ 08084",11,N
+Student 132,"4 Timber Creek Rd, Stratford, NJ 08084",12,N
+Student 133,"12 Timber Creek Rd, Stratford, NJ 08084",1,N
+Student 134,"11 Timber Creek Rd, Stratford, NJ 08084",2,N
+Student 135,"8 Timber Creek Rd, Stratford, NJ 08084",3,N
+Student 136,"19 Timber Creek Rd, Stratford, NJ 08084",4,N
+Student 137,"7 Timber Creek Rd, Stratford, NJ 08084",5,N
+Student 138,"14 Timber Creek Rd, Stratford, NJ 08084",6,Y
+Student 139,"17 Timber Creek Rd, Stratford, NJ 08084",7,N
+Student 140,"15 Timber Creek Rd, Stratford, NJ 08084",8,N
+Student 141,"34 Temple Ave, Stratford, NJ 08084",9,N
+Student 142,"20 Temple Ave # A, Stratford, NJ 08084",10,Y
+Student 143,"49 Temple Ave, Stratford, NJ 08084",11,N
+Student 144,"14 Temple Ave, Stratford, NJ 08084",12,N
+Student 145,"4 Longwood Dr, Stratford, NJ 08084",1,N
+Student 146,"24 Longwood Dr, Stratford, NJ 08084",2,N
+Student 147,"15 Longwood Dr, Stratford, NJ 08084",3,N
+Student 148,"25 Longwood Dr, Stratford, NJ 08084",4,N
+Student 149,"21 Longwood Dr, Stratford, NJ 08084",5,N
+Student 150,"38 Longwood Dr, Stratford, NJ 08084",6,N
+Student 151,"18 Longwood Dr, Stratford, NJ 08084",7,N
+Student 152,"50 Longwood Dr, Stratford, NJ 08084",8,N
+Student 153,"301 Cornell Ave, Stratford, NJ 08084",9,Y
+Student 154,"321 Cornell Ave, Stratford, NJ 08084",10,N
+Student 155,"9 Cornell Ave, Stratford, NJ 08084",11,N
+Student 156,"314 Cornell Ave, Stratford, NJ 08084",12,N
+Student 157,"310 Cornell Ave, Stratford, NJ 08084",1,Y
+Student 158,"10 Cornell Ave, Stratford, NJ 08084",2,N
+Student 159,"113 Whitman Ave, Stratford, NJ 08084",3,N
+Student 160,"115 Whitman Ave, Stratford, NJ 08084",4,N
+Student 161,"11 Whitman Ave, Stratford, NJ 08084",5,N
+Student 162,"112 Whitman Ave, Stratford, NJ 08084",6,N
+Student 163,"117 Whitman Ave, Stratford, NJ 08084",7,N
+Student 164,"109 Whitman Ave, Stratford, NJ 08084",8,N
+Student 165,"3 Whitman Ave, Stratford, NJ 08084",9,N
+Student 166,"32 Evergreen Rd, Stratford, NJ 08084",10,N
+Student 167,"22 Evergreen Rd, Stratford, NJ 08084",11,N
+Student 168,"29 Evergreen Rd, Stratford, NJ 08084",12,N
+Student 169,"109 Evergreen Rd, Stratford, NJ 08084",1,N
+Student 170,"15 Evergreen Rd, Stratford, NJ 08084",2,N
+Student 171,"7 Evergreen Rd, Stratford, NJ 08084",3,N
+Student 172,"121 Evergreen Rd, Stratford, NJ 08084",4,N
+Student 173,"122 Hillside Rd, Stratford, NJ 08084",5,N
+Student 174,"104 Hillside Rd, Stratford, NJ 08084",6,N
+Student 175,"8 Hillside Rd, Stratford, NJ 08084",7,N
+Student 176,"119 Hillside Rd, Stratford, NJ 08084",8,N
+Student 177,"102 Hillside Rd, Stratford, NJ 08084",9,N
+Student 178,"123 Hillside Rd, Stratford, NJ 08084",10,N
+Student 179,"43 Hillside Rd, Stratford, NJ 08084",11,N
+Student 180,"11 Hillside Rd, Stratford, NJ 08084",12,N
+Student 181,"30 Hillside Rd, Stratford, NJ 08084",1,N
+Student 182,"24 Hillside Rd, Stratford, NJ 08084",2,N
+Student 183,"34 Temple Ave, Stratford, NJ 08084",3,Y
+Student 184,"20 Temple Ave # A, Stratford, NJ 08084",4,N
+Student 185,"49 Temple Ave, Stratford, NJ 08084",5,N
+Student 186,"14 Temple Ave, Stratford, NJ 08084",6,N
+Student 187,"37 Swarthmore Ave, Stratford, NJ 08084",7,Y
+Student 188,"35 Swarthmore Ave, Stratford, NJ 08084",8,N
+Student 189,"5 Swarthmore Ave, Stratford, NJ 08084",9,N
+Student 190,"34 Swarthmore Ave, Stratford, NJ 08084",10,N
+Student 191,"28 Swarthmore Ave, Stratford, NJ 08084",11,N
+Student 192,"17 Swarthmore Ave, Stratford, NJ 08084",12,N
+Student 193,"20 Swarthmore Ave, Stratford, NJ 08084",1,N
+Student 194,"10 Swarthmore Ave, Stratford, NJ 08084",2,N
+Student 195,"17 Swarthmore Ave, Stratford, NJ 08084",3,N
+Student 196,"39 Swarthmore Ave, Stratford, NJ 08084",4,N
+Student 197,"25 Swarthmore Ave, Stratford, NJ 08084",5,N
+Student 198,"41 Swarthmore Ave, Stratford, NJ 08084",6,Y
+Student 199,"510 W Laurel Rd, Stratford, NJ 08084",7,N
+Student 200,"404 W Laurel Rd, Stratford, NJ 08084",8,N
+Student 201,"602 W Laurel Rd, Stratford, NJ 08084",9,N
+Student 202,"514 W Laurel Rd, Stratford, NJ 08084",10,Y
+Student 203,"502 W Laurel Rd, Stratford, NJ 08084",11,N
+Student 204,"506 W Laurel Rd, Stratford, NJ 08084",12,N
+Student 205,"508 W Laurel Rd, Stratford, NJ 08084",1,N
+Student 206,"12 W Laurel Rd, Stratford, NJ 08084",2,N
+Student 207,"516 W Laurel Rd, Stratford, NJ 08084",3,N
+Student 208,"16 W Laurel Rd, Stratford, NJ 08084",4,N
+Student 209,"6 W Laurel Rd, Stratford, NJ 08084",5,N
+Student 210,"19 W Laurel Rd, Stratford, NJ 08084",6,N
+Student 211,"1 Knoll Rd, Stratford, NJ 08084",7,N
+Student 212,"13 Knoll Rd, Stratford, NJ 08084",8,N
+Student 213,"21 Knoll Rd, Stratford, NJ 08084",9,N
+Student 214,"18 Knoll Rd, Stratford, NJ 08084",10,N
+Student 215,"2 Knoll Rd, Stratford, NJ 08084",11,N
+Student 216,"14 Knoll Rd, Stratford, NJ 08084",12,N
+Student 217,"16 Knoll Rd, Stratford, NJ 08084",1,N
+Student 218,"8 Knoll Rd, Stratford, NJ 08084",2,N
+Student 219,"7 Knoll Rd, Stratford, NJ 08084",3,N
+Student 220,"20 Knoll Rd, Stratford, NJ 08084",4,N
+Student 221,"15 Knoll Rd, Stratford, NJ 08084",5,N
+Student 222,"12 Knoll Rd, Stratford, NJ 08084",6,N
+Student 223,"3 Knoll Rd, Stratford, NJ 08084",7,N
+Student 224,"213 Roberts Dr, Somerdale, NJ 08083",8,N
+Student 225,"112 Roberts Dr, Somerdale, NJ 08083",9,N
+Student 226,"204 Roberts Dr, Somerdale, NJ 08083",10,N
+Student 227,"15 Roberts Dr, Somerdale, NJ 08083",11,N
+Student 228,"155 Roberts Dr, Somerdale, NJ 08083",12,Y
+Student 229,"317 Roberts Dr, Somerdale, NJ 08083",1,N
+Student 230,"221 Roberts Dr, Somerdale, NJ 08083",2,N
+Student 231,"39 Roberts Dr, Somerdale, NJ 08083",3,N
+Student 232,"137 Roberts Dr, Somerdale, NJ 08083",4,Y
+Student 233,"228 Roberts Dr, Somerdale, NJ 08083",5,N
+Student 234,"316 Roberts Dr, Somerdale, NJ 08083",6,N
+Student 235,"121 Roberts Dr, Somerdale, NJ 08083",7,N
+Student 236,"10 Dartmouth Ave, Somerdale, NJ 08083",8,N
+Student 237,"9 Dartmouth Ave, Somerdale, NJ 08083",9,N
+Student 238,"19 Dartmouth Ave, Somerdale, NJ 08083",10,N
+Student 239,"5 Dartmouth Ave, Somerdale, NJ 08083",11,N
+Student 240,"23 Dartmouth Ave, Somerdale, NJ 08083",12,N
+Student 241,"123 Dartmouth Ave, Somerdale, NJ 08083",1,N
+Student 242,"145 Dartmouth Ave, Somerdale, NJ 08083",2,N
+Student 243,"131 Dartmouth Ave, Somerdale, NJ 08083",3,Y
+Student 244,"148 Dartmouth Ave, Somerdale, NJ 08083",4,N
+Student 245,"128 Dartmouth Ave, Somerdale, NJ 08083",5,N
+Student 246,"124 Dartmouth Ave, Somerdale, NJ 08083",6,N
+Student 247,"101 Dartmouth Ave, Somerdale, NJ 08083",7,Y
+Student 248,"720 W Somerdale Rd, Somerdale, NJ 08083",8,N
+Student 249,"850 W Somerdale Rd, Somerdale, NJ 08083",9,N
+Student 250,"1030 W Somerdale Rd, Somerdale, NJ 08083",10,N
+Student 251,"1024 W Somerdale Rd, Somerdale, NJ 08083",11,N
+Student 252,"601 W Somerdale Rd, Somerdale, NJ 08083",12,N
+Student 253,"1036 W Somerdale Rd, Somerdale, NJ 08083",1,N
+Student 254,"1018 W Somerdale Rd, Somerdale, NJ 08083",2,N
+Student 255,"916 W Somerdale Rd, Somerdale, NJ 08083",3,N
+Student 256,"986 W Somerdale Rd, Somerdale, NJ 08083",4,N
+Student 257,"1042 W Somerdale Rd, Somerdale, NJ 08083",5,N
+Student 258,"128 W Somerdale Rd, Somerdale, NJ 08083",6,N
+Student 259,"1048 W Somerdale Rd, Somerdale, NJ 08083",7,N
+Student 260,"970 W Somerdale Rd, Somerdale, NJ 08083",8,N
+Student 261,"125 Tilford Rd, Somerdale, NJ 08083",9,N
+Student 262,"254 Tilford Rd, Somerdale, NJ 08083",10,N
+Student 263,"230 Tilford Rd, Somerdale, NJ 08083",11,N
+Student 264,"242 Tilford Rd, Somerdale, NJ 08083",12,N
+Student 265,"173 Tilford Rd, Somerdale, NJ 08083",1,N
+Student 266,"143 Tilford Rd, Somerdale, NJ 08083",2,N
+Student 267,"113 Tilford Rd, Somerdale, NJ 08083",3,N
+Student 268,"267 Tilford Rd, Somerdale, NJ 08083",4,N
+Student 269,"142 Tilford Rd, Somerdale, NJ 08083",5,N
+Student 270,"311 Hollyoke Rd, Somerdale, NJ 08083",6,N
+Student 271,"314 Hollyoke Rd, Somerdale, NJ 08083",7,N
+Student 272,"319 Hollyoke Rd, Somerdale, NJ 08083",8,N
+Student 273,"310 Hollyoke Rd, Somerdale, NJ 08083",9,Y
+Student 274,"315 Hollyoke Rd, Somerdale, NJ 08083",10,N
+Student 275,"306 Hollyoke Rd, Somerdale, NJ 08083",11,N
+Student 276,"323 Hollyoke Rd, Somerdale, NJ 08083",12,N
+Student 277,"307 Hollyoke Rd, Somerdale, NJ 08083",1,Y
+Student 278,"230 Hollyoke Rd, Somerdale, NJ 08083",2,N
+Student 279,"724 Sunset Dr, Somerdale, NJ 08083",3,N
+Student 280,"1010 Sunset Dr, Somerdale, NJ 08083",4,N
+Student 281,"807 Sunset Dr, Somerdale, NJ 08083",5,N
+Student 282,"707 Sunset Dr, Somerdale, NJ 08083",6,N
+Student 283,"909 Sunset Dr, Somerdale, NJ 08083",7,N
+Student 284,"811 Sunset Dr, Somerdale, NJ 08083",8,N
+Student 285,"701 Sunset Dr, Somerdale, NJ 08083",9,N
+Student 286,"906 Sunset Dr, Somerdale, NJ 08083",10,N
+Student 287,"711 Sunset Dr, Somerdale, NJ 08083",11,N
+Student 288,"907 Sunset Dr, Somerdale, NJ 08083",12,Y
+Student 289,"905 Sunset Dr, Somerdale, NJ 08083",1,N
+Student 290,"27 Franklin Cir, Somerdale, NJ 08083",2,N
+Student 291,"61 Franklin Cir, Somerdale, NJ 08083",3,N
+Student 292,"17 Franklin Cir, Somerdale, NJ 08083",4,Y
+Student 293,"49 Franklin Cir, Somerdale, NJ 08083",5,N
+Student 294,"47 Franklin Cir, Somerdale, NJ 08083",6,N
+Student 295,"51 Franklin Cir, Somerdale, NJ 08083",7,N
+Student 296,"53 Franklin Cir, Somerdale, NJ 08083",8,N
+Student 297,"55 Franklin Cir, Somerdale, NJ 08083",9,N
+Student 298,"116 S Browning Ave, Somerdale, NJ 08083",10,N
+Student 299,"801 S Browning Ave, Somerdale, NJ 08083",11,N
+Student 300,"1101 S Browning Ave, Somerdale, NJ 08083",12,N
+Student 301,"14 S Browning Ave, Somerdale, NJ 08083",1,N
+Student 302,"1012 S Browning Ave, Somerdale, NJ 08083",2,N
+Student 303,"405 S Browning Ave, Somerdale, NJ 08083",3,Y
+Student 304,"133 S Browning Ave, Somerdale, NJ 08083",4,N
+Student 305,"709 Chatham Rd, Somerdale, NJ 08083",5,N
+Student 306,"648 Chatham Rd, Gloucester Township, NJ 08083",6,N
+Student 307,"616 Chatham Rd, Somerdale, NJ 08083",7,Y
+Student 308,"613 Chatham Rd, Somerdale, NJ 08083",8,N
+Student 309,"730 Chatham Rd, Somerdale, NJ 08083",9,N
+Student 310,"636 Chatham Rd, Somerdale, NJ 08083",10,N
+Student 311,"605 Chatham Rd, Somerdale, NJ 08083",11,N
+Student 312,"617 Chatham Rd, Somerdale, NJ 08083",12,N
+Student 313,"722 Chatham Rd, Somerdale, NJ 08083",1,N
+Student 314,"303 N Warwick Rd, Somerdale, NJ 08083",2,N
+Student 315,"401 N Warwick Rd, Somerdale, NJ 08083",3,N
+Student 316,"228 N Warwick Rd, Somerdale, NJ 08083",4,N
+Student 317,"300 N Warwick Rd, Somerdale, NJ 08083",5,N
+Student 318,"120 N Warwick Rd, Somerdale, NJ 08083",6,Y
+Student 319,"116 N Warwick Rd, Somerdale, NJ 08083",7,N
+Student 320,"118 N Warwick Rd, Somerdale, NJ 08083",8,N
+Student 321,"416 N Warwick Rd, Somerdale, NJ 08083",9,N
+Student 322,"219 N Warwick Rd, Somerdale, NJ 08083",10,Y
+Student 323,"11 N Warwick Rd, Somerdale, NJ 08083",11,N
+Student 324,"309 N Warwick Rd, Somerdale, NJ 08083",12,N
+Student 325,"414 N Warwick Rd, Somerdale, NJ 08083",1,N
+Student 326,"344 Orchard Ave, Somerdale, NJ 08083",2,N
+Student 327,"300 Orchard Ave, Somerdale, NJ 08083",3,N
+Student 328,"221 Orchard Ave, Somerdale, NJ 08083",4,N
+Student 329,"401 Orchard Ave, Somerdale, NJ 08083",5,N
+Student 330,"233 Orchard Ave, Somerdale, NJ 08083",6,N
+Student 331,"406 Orchard Ave, Somerdale, NJ 08083",7,N
+Student 332,"409 Orchard Ave, Somerdale, NJ 08083",8,N
+Student 333,"246 Orchard Ave, Somerdale, NJ 08083",9,N
+Student 334,"250 Orchard Ave, Somerdale, NJ 08083",10,N
+Student 335,"336 Orchard Ave, Somerdale, NJ 08083",11,N
+Student 336,"325 Orchard Ave, Somerdale, NJ 08083",12,N
+Student 337,"405 Orchard Ave, Somerdale, NJ 08083",1,N
+Student 338,"337 Orchard Ave, Somerdale, NJ 08083",2,N
+Student 339,"242 Orchard Ave, Somerdale, NJ 08083",3,N
+Student 340,"225 Orchard Ave, Somerdale, NJ 08083",4,N
+Student 341,"204 Orchard Ave, Somerdale, NJ 08083",5,N
+Student 342,"332 Orchard Ave, Somerdale, NJ 08083",6,N
+Student 343,"410 Orchard Ave, Somerdale, NJ 08083",7,N
+Student 344,"205 Orchard Ave, Somerdale, NJ 08083",8,N
+Student 345,"201 Orchard Ave, Somerdale, NJ 08083",9,N
+Student 346,"316 Orchard Ave, Somerdale, NJ 08083",10,N
+Student 347,"254 Orchard Ave, Somerdale, NJ 08083",11,N
+Student 348,"243 Orchard Ave, Somerdale, NJ 08083",12,Y
+Student 349,"305 Orchard Ave, Somerdale, NJ 08083",1,N
+Student 350,"317 Orchard Ave, Somerdale, NJ 08083",2,N
+Student 351,"217 Orchard Ave, Somerdale, NJ 08083",3,N
+Student 352,"321 Orchard Ave, Somerdale, NJ 08083",4,Y
+Student 353,"301 Orchard Ave, Somerdale, NJ 08083",5,N
+Student 354,"402 Orchard Ave, Somerdale, NJ 08083",6,N
+Student 355,"237 Orchard Ave, Somerdale, NJ 08083",7,N
+Student 356,"113 Ava Ave, Somerdale, NJ 08083",8,N
+Student 357,"104 Ava Ave, Somerdale, NJ 08083",9,N
+Student 358,"107 Ava Ave, Somerdale, NJ 08083",10,N
+Student 359,"431 Ava Ave, Somerdale, NJ 08083",11,N
+Student 360,"317 Ava Ave, Somerdale, NJ 08083",12,N
+Student 361,"200 Ava Ave, Somerdale, NJ 08083",1,N
+Student 362,"6 Ava Ave, Somerdale, NJ 08083",2,N
+Student 363,"203 Ava Ave, Somerdale, NJ 08083",3,Y
+Student 364,"103 Ava Ave, Somerdale, NJ 08083",4,N
+Student 365,"313 Ava Ave, Somerdale, NJ 08083",5,N
+Student 366,"4 Ava Ave, Somerdale, NJ 08083",6,N
+Student 367,"107 W Maiden Ln, Somerdale, NJ 08083",7,Y
+Student 368,"300 W Maiden Ln, Somerdale, NJ 08083",8,N
+Student 369,"200 W Maiden Ln, Somerdale, NJ 08083",9,N
+Student 370,"303 W Maiden Ln, Somerdale, NJ 08083",10,N
+Student 371,"128 W Maiden Ln, Somerdale, NJ 08083",11,N
+Student 372,"106 W Maiden Ln, Somerdale, NJ 08083",12,N
+Student 373,"139 W Maiden Ln, Somerdale, NJ 08083",1,N
+Student 374,"313 W Maiden Ln, Somerdale, NJ 08083",2,N
+Student 375,"129 Sherbrook Blvd, Somerdale, NJ 08083",3,N
+Student 376,"119 Sherbrook Blvd, Somerdale, NJ 08083",4,N
+Student 377,"127 Sherbrook Blvd, Somerdale, NJ 08083",5,N
+Student 378,"116 Sherbrook Blvd, Somerdale, NJ 08083",6,N
+Student 379,"1101 Sherbrook Blvd, Somerdale, NJ 08083",7,N
+Student 380,"125 Sherbrook Blvd, Somerdale, NJ 08083",8,N
+Student 381,"37 Sherbrook Blvd, Somerdale, NJ 08083",9,N
+Student 382,"95 Sherbrook Blvd, Somerdale, NJ 08083",10,N
+Student 383,"61 Sherbrook Blvd, Somerdale, NJ 08083",11,N
+Student 384,"3 Sherbrook Blvd, Somerdale, NJ 08083",12,N
+Student 385,"39 N Hilltop Ave, Somerdale, NJ 08083",1,N
+Student 386,"520 N Hilltop Ave, Somerdale, NJ 08083",2,N
+Student 387,"4 N Hilltop Ave, Somerdale, NJ 08083",3,N
+Student 388,"21 N Hilltop Ave, Somerdale, NJ 08083",4,N
+Student 389,"9 N Hilltop Ave, Somerdale, NJ 08083",5,N
+Student 390,"113 N Hilltop Ave, Somerdale, NJ 08083",6,N
+Student 391,"503 N Hilltop Ave, Somerdale, NJ 08083",7,N
+Student 392,"722 Mildred Ave, Somerdale, NJ 08083",8,N
+Student 393,"802 Mildred Ave, Somerdale, NJ 08083",9,Y
+Student 394,"804 Mildred Ave, Somerdale, NJ 08083",10,N
+Student 395,"809 Mildred Ave, Somerdale, NJ 08083",11,N
+Student 396,"716 Mildred Ave, Somerdale, NJ 08083",12,N
+Student 397,"708 Mildred Ave, Somerdale, NJ 08083",1,Y
+Student 398,"729 Mildred Ave, Somerdale, NJ 08083",2,N
+Student 399,"721 Mildred Ave, Somerdale, NJ 08083",3,N
+Student 400,"101 E Maiden Ln, Somerdale, NJ 08083",4,N
+Student 401,"17 E Maiden Ln, Somerdale, NJ 08083",5,N
+Student 402,"2 E Maiden Ln, Somerdale, NJ 08083",6,N
+Student 403,"18 E Maiden Ln, Somerdale, NJ 08083",7,N
+Student 404,"4 E Maiden Ln, Somerdale, NJ 08083",8,N
+Student 405,"108 E Maiden Ln, Somerdale, NJ 08083",9,N
+Student 406,"207 E Maiden Ln, Somerdale, NJ 08083",10,N
+Student 407,"104 E Maiden Ln, Somerdale, NJ 08083",11,N
+Student 408,"400 Magnolia Ave, Somerdale, NJ 08083",12,Y
+Student 409,"125 Magnolia Ave, Somerdale, NJ 08083",1,N
+Student 410,"110 Magnolia Ave, Somerdale, NJ 08083",2,N
+Student 411,"300 Magnolia Ave, Somerdale, NJ 08083",3,N
+Student 412,"208 Magnolia Ave, Somerdale, NJ 08083",4,Y
+Student 413,"219 Magnolia Ave, Somerdale, NJ 08083",5,N
+Student 414,"313 Magnolia Ave, Somerdale, NJ 08083",6,N
+Student 415,"421 Magnolia Ave, Somerdale, NJ 08083",7,N
+Student 416,"200 Magnolia Ave, Somerdale, NJ 08083",8,N
+Student 417,"216 Magnolia Ave, Somerdale, NJ 08083",9,N
+Student 418,"205 Gloucester Ave, Somerdale, NJ 08083",10,N
+Student 419,"9 Gloucester Ave, Somerdale, NJ 08083",11,N
+Student 420,"203 Gloucester Ave, Somerdale, NJ 08083",12,N
+Student 421,"103 Gloucester Ave, Somerdale, NJ 08083",1,N
+Student 422,"16 Gloucester Ave, Somerdale, NJ 08083",2,N
+Student 423,"6 Gloucester Ave, Somerdale, NJ 08083",3,N
+Student 424,"105 Gloucester Ave, Somerdale, NJ 08083",4,N
+Student 425,"21 Gloucester Ave, Somerdale, NJ 08083",5,N
+Student 426,"102 Gloucester Ave, Somerdale, NJ 08083",6,N
+Student 427,"11 Gloucester Ave, Somerdale, NJ 08083",7,N
+Student 428,"106 Gloucester Ave, Somerdale, NJ 08083",8,N
+Student 429,"312 Juniper Ave, Somerdale, NJ 08083",9,N
+Student 430,"321 Juniper Ave, Somerdale, NJ 08083",10,N
+Student 431,"29 Juniper Ave, Somerdale, NJ 08083",11,N
+Student 432,"16 Juniper Ave, Somerdale, NJ 08083",12,N
+Student 433,"6 Juniper Ave, Somerdale, NJ 08083",1,N
+Student 434,"20 Juniper Ave, Somerdale, NJ 08083",2,N
+Student 435,"23 Juniper Ave, Somerdale, NJ 08083",3,N
+Student 436,"3 Juniper Ave, Somerdale, NJ 08083",4,N
+Student 437,"24 Juniper Ave, Somerdale, NJ 08083",5,N
+Student 438,"13 Juniper Ave, Somerdale, NJ 08083",6,Y
+Student 439,"632 Southwick Rd, Somerdale, NJ 08083",7,N
+Student 440,"676 Southwick Rd, Somerdale, NJ 08083",8,N
+Student 441,"637 Southwick Rd, Somerdale, NJ 08083",9,N
+Student 442,"672 Southwick Rd, Somerdale, NJ 08083",10,Y
+Student 443,"669 Southwick Rd, Somerdale, NJ 08083",11,N
+Student 444,"617 Southwick Rd, Somerdale, NJ 08083",12,N
+Student 445,"616 Southwick Rd, Somerdale, NJ 08083",1,N
+Student 446,"620 Southwick Rd, Somerdale, NJ 08083",2,N
+Student 447,"304 W Evergreen Ave, Somerdale, NJ 08083",3,N
+Student 448,"412 W Evergreen Ave, Somerdale, NJ 08083",4,N
+Student 449,"300 W Evergreen Ave, Somerdale, NJ 08083",5,N
+Student 450,"116 W Evergreen Ave, Somerdale, NJ 08083",6,N
+Student 451,"400 W Evergreen Ave, Somerdale, NJ 08083",7,N
+Student 452,"320 W Evergreen Ave, Somerdale, NJ 08083",8,N
+Student 453,"325 W Evergreen Ave, Somerdale, NJ 08083",9,Y
+Student 454,"100 W Evergreen Ave, Somerdale, NJ 08083",10,N
+Student 455,"113 W Evergreen Ave, Somerdale, NJ 08083",11,N
+Student 456,"304 W Evergreen Ave, Somerdale, NJ 08083",12,N
+Student 457,"412 W Evergreen Ave, Somerdale, NJ 08083",1,Y
+Student 458,"300 W Evergreen Ave, Somerdale, NJ 08083",2,N
+Student 459,"116 W Evergreen Ave, Somerdale, NJ 08083",3,N
+Student 460,"400 W Evergreen Ave, Somerdale, NJ 08083",4,N
+Student 461,"320 W Evergreen Ave, Somerdale, NJ 08083",5,N
+Student 462,"325 W Evergreen Ave, Somerdale, NJ 08083",6,N
+Student 463,"100 W Evergreen Ave, Somerdale, NJ 08083",7,N
+Student 464,"113 W Evergreen Ave, Somerdale, NJ 08083",8,N
+Student 465,"109 W Evergreen Ave, Somerdale, NJ 08083",9,N
+Student 466,"125 W Evergreen Ave, Somerdale, NJ 08083",10,N
+Student 467,"218 W Lincoln Ave, Magnolia, NJ 08049",11,N
+Student 468,"231 W Lincoln Ave, Magnolia, NJ 08049",12,N
+Student 469,"212 W Lincoln Ave, Magnolia, NJ 08049",1,N
+Student 470,"213 W Lincoln Ave, Magnolia, NJ 08049",2,N
+Student 471,"144 W Lincoln Ave, Magnolia, NJ 08049",3,N
+Student 472,"420 W Lincoln Ave, Magnolia, NJ 08049",4,N
+Student 473,"617 W Lincoln Ave, Magnolia, NJ 08049",5,N
+Student 474,"403 W Lincoln Ave, Magnolia, NJ 08049",6,N
+Student 475,"508 W Lincoln Ave, Magnolia, NJ 08049",7,N
+Student 476,"219 W Lincoln Ave, Magnolia, NJ 08049",8,N
+Student 477,"324 W Lincoln Ave, Magnolia, NJ 08049",9,N
+Student 478,"230 W Lincoln Ave, Magnolia, NJ 08049",10,N
+Student 479,"422 W Lincoln Ave, Magnolia, NJ 08049",11,N
+Student 480,"128 W Lincoln Ave, Magnolia, NJ 08049",12,N
+Student 481,"642 Pasadena Dr, Magnolia, NJ 08049",1,N
+Student 482,"403 Pasadena Dr, Magnolia, NJ 08049",2,N
+Student 483,"651 Pasadena Dr, Magnolia, NJ 08049",3,Y
+Student 484,"636 Pasadena Dr, Magnolia, NJ 08049",4,N
+Student 485,"622 Pasadena Dr, Magnolia, NJ 08049",5,N
+Student 486,"639 Pasadena Dr, Magnolia, NJ 08049",6,N
+Student 487,"506 Pasadena Dr, Magnolia, NJ 08049",7,Y
+Student 488,"641 Pasadena Dr, Magnolia, NJ 08049",8,N
+Student 489,"657 Pasadena Dr, Magnolia, NJ 08049",9,N
+Student 490,"311 Pasadena Dr, Magnolia, NJ 08049",10,N
+Student 491,"307 Pasadena Dr, Magnolia, NJ 08049",11,N
+Student 492,"511 Pasadena Dr, Magnolia, NJ 08049",12,N
+Student 493,"661 Pasadena Dr, Magnolia, NJ 08049",1,N
+Student 494,"509 Pasadena Dr, Magnolia, NJ 08049",2,N
+Student 495,"508 Pasadena Dr, Magnolia, NJ 08049",3,N
+Student 496,"603 Pasadena Dr, Magnolia, NJ 08049",4,N
+Student 497,"601 Pasadena Dr, Magnolia, NJ 08049",5,N
+Student 498,"103 Brooke Ave, Magnolia, NJ 08049",6,Y
+Student 499,"620 Brooke Ave, Magnolia, NJ 08049",7,N
+Student 500,"703 Brooke Ave, Magnolia, NJ 08049",8,N
+Student 501,"606 Brooke Ave, Magnolia, NJ 08049",9,N
+Student 502,"331 Brooke Ave, Magnolia, NJ 08049",10,Y
+Student 503,"420 Brooke Ave, Magnolia, NJ 08049",11,N
+Student 504,"436 Brooke Ave, Magnolia, NJ 08049",12,N
+Student 505,"709 Brooke Ave, Magnolia, NJ 08049",1,N
+Student 506,"402 Brooke Ave, Magnolia, NJ 08049",2,N
+Student 507,"404 Brooke Ave, Magnolia, NJ 08049",3,N
+Student 508,"602 Brooke Ave, Magnolia, NJ 08049",4,N
+Student 509,"413 Brooke Ave, Magnolia, NJ 08049",5,N
+Student 510,"326 Brooke Ave, Magnolia, NJ 08049",6,N
+Student 511,"406 Otter Branch Dr, Magnolia, NJ 08049",7,N
+Student 512,"122 Otter Branch Dr, Magnolia, NJ 08049",8,N
+Student 513,"603 Otter Branch Dr, Magnolia, NJ 08049",9,N
+Student 514,"118 Otter Branch Dr, Magnolia, NJ 08049",10,N
+Student 515,"503 Otter Branch Dr, Magnolia, NJ 08049",11,N
+Student 516,"400 Otter Branch Dr, Magnolia, NJ 08049",12,N
+Student 517,"405 Otter Branch Dr, Magnolia, NJ 08049",1,N
+Student 518,"610 Otter Branch Dr, Magnolia, NJ 08049",2,N
+Student 519,"416 Otter Branch Dr, Magnolia, NJ 08049",3,N
+Student 520,"625 Beverly Dr, Magnolia, NJ 08049",4,N
+Student 521,"619 Beverly Dr, Magnolia, NJ 08049",5,N
+Student 522,"519 Beverly Dr, Magnolia, NJ 08049",6,N
+Student 523,"212 E Washington Ave, Magnolia, NJ 08049",7,N
+Student 524,"227 E Washington Ave, Magnolia, NJ 08049",8,N
+Student 525,"129 E Washington Ave, Magnolia, NJ 08049",9,N
+Student 526,"140 E Washington Ave, Magnolia, NJ 08049",10,N
+Student 527,"300 E Washington Ave, Magnolia, NJ 08049",11,N
+Student 528,"238 E Washington Ave, Magnolia, NJ 08049",12,Y
+Student 529,"136 E Washington Ave, Magnolia, NJ 08049",1,N
+Student 530,"742 E Evesham Ave, Magnolia, NJ 08049",2,N
+Student 531,"643 E Evesham Ave, Magnolia, NJ 08049",3,N
+Student 532,"401 E Evesham Ave, Magnolia, NJ 08049",4,Y
+Student 533,"126 E Evesham Ave, Magnolia, NJ 08049",5,N
+Student 534,"614 E Evesham Ave, Magnolia, NJ 08049",6,N
+Student 535,"122 E Evesham Ave, Magnolia, NJ 08049",7,N
+Student 536,"118 E Evesham Ave, Magnolia, NJ 08049",8,N
+Student 537,"638 E Evesham Ave, Magnolia, NJ 08049",9,N
+Student 538,"130 E Evesham Ave, Magnolia, NJ 08049",10,N
+Student 539,"138 E Evesham Ave, Magnolia, NJ 08049",11,N
+Student 540,"615 E Evesham Ave, Magnolia, NJ 08049",12,N
+Student 541,"621 Harrison Ave, Magnolia, NJ 08049",1,N
+Student 542,"614 Harrison Ave, Magnolia, NJ 08049",2,N
+Student 543,"729 Harrison Ave, Magnolia, NJ 08049",3,Y
+Student 544,"608 Harrison Ave, Magnolia, NJ 08049",4,N
+Student 545,"728 Harrison Ave, Magnolia, NJ 08049",5,N
+Student 546,"724 Harrison Ave, Magnolia, NJ 08049",6,N
+Student 547,"723 Harrison Ave, Magnolia, NJ 08049",7,Y
+Student 548,"702 Harrison Ave, Magnolia, NJ 08049",8,N
+Student 549,"707 Harrison Ave, Magnolia, NJ 08049",9,N
+Student 550,"606 Harrison Ave, Magnolia, NJ 08049",10,N
+Student 551,"602 Harrison Ave, Magnolia, NJ 08049",11,N
+Student 552,"604 Harrison Ave, Magnolia, NJ 08049",12,N
+Student 553,"611 Harrison Ave, Magnolia, NJ 08049",1,N
+Student 554,"715 Harrison Ave, Magnolia, NJ 08049",2,N
+Student 555,"708 Harrison Ave, Magnolia, NJ 08049",3,N
+Student 556,"717 Harrison Ave, Magnolia, NJ 08049",4,N
+Student 557,"605 Harrison Ave, Magnolia, NJ 08049",5,N
+Student 558,"703 Harrison Ave, Magnolia, NJ 08049",6,N
+Student 559,"705 Harrison Ave, Magnolia, NJ 08049",7,N
+Student 560,"610 Harrison Ave, Magnolia, NJ 08049",8,N
+Student 561,"704 Harrison Ave, Magnolia, NJ 08049",9,N
+Student 562,"706 Harrison Ave, Magnolia, NJ 08049",10,N
+Student 563,"712 Harrison Ave, Magnolia, NJ 08049",11,N
+Student 564,"718 Harrison Ave, Magnolia, NJ 08049",12,N
+Student 565,"609 Harrison Ave, Magnolia, NJ 08049",1,N
+Student 566,"616 Harrison Ave, Magnolia, NJ 08049",2,N
+Student 567,"709 Harrison Ave, Magnolia, NJ 08049",3,N
+Student 568,"619 Harrison Ave, Magnolia, NJ 08049",4,N
+Student 569,"603 Harrison Ave, Magnolia, NJ 08049",5,N
+Student 570,"711 Harrison Ave, Magnolia, NJ 08049",6,N
+Student 571,"713 Harrison Ave, Magnolia, NJ 08049",7,N
+Student 572,"720 Harrison Ave, Magnolia, NJ 08049",8,N
+Student 573,"607 Harrison Ave, Magnolia, NJ 08049",9,Y
+Student 574,"613 Harrison Ave, Magnolia, NJ 08049",10,N
+Student 575,"618 Harrison Ave, Magnolia, NJ 08049",11,N
+Student 576,"725 Harrison Ave, Magnolia, NJ 08049",12,N
+Student 577,"601 Harrison Ave, Magnolia, NJ 08049",1,Y
+Student 578,"617 Harrison Ave, Magnolia, NJ 08049",2,N
+Student 579,"701 Harrison Ave, Magnolia, NJ 08049",3,N
+Student 580,"600 Harrison Ave, Magnolia, NJ 08049",4,N
+Student 581,"615 Harrison Ave, Magnolia, NJ 08049",5,N
+Student 582,"710 Harrison Ave, Magnolia, NJ 08049",6,N
+Student 583,"714 Harrison Ave, Magnolia, NJ 08049",7,N
+Student 584,"716 Harrison Ave, Magnolia, NJ 08049",8,N
+Student 585,"727 Harrison Ave, Magnolia, NJ 08049",9,N
+Student 586,"612 Harrison Ave, Magnolia, NJ 08049",10,N
+Student 587,"329 Jefferson Ave, Magnolia, NJ 08049",11,N
+Student 588,"129 Jefferson Ave, Magnolia, NJ 08049",12,Y
+Student 589,"334 Jefferson Ave, Magnolia, NJ 08049",1,N
+Student 590,"312 Jefferson Ave, Magnolia, NJ 08049",2,N
+Student 591,"325 Jefferson Ave, Magnolia, NJ 08049",3,N
+Student 592,"230 Jefferson Ave, Magnolia, NJ 08049",4,Y
+Student 593,"618 Williams Ave, Magnolia, NJ 08049",5,N
+Student 594,"509 Williams Ave, Magnolia, NJ 08049",6,N
+Student 595,"612 Williams Ave, Magnolia, NJ 08049",7,N
+Student 596,"518 Williams Ave, Magnolia, NJ 08049",8,N
+Student 597,"607 Williams Ave, Magnolia, NJ 08049",9,N
+Student 598,"604 Williams Ave, Magnolia, NJ 08049",10,N
+Student 599,"603 Williams Ave, Magnolia, NJ 08049",11,N
+Student 600,"516 Williams Ave, Magnolia, NJ 08049",12,N
+Student 601,"620 Williams Ave, Magnolia, NJ 08049",1,N
+Student 602,"605 Williams Ave, Magnolia, NJ 08049",2,N
+Student 603,"517 Williams Ave, Magnolia, NJ 08049",3,Y
+Student 604,"514 Williams Ave, Magnolia, NJ 08049",4,N
+Student 605,"601 Williams Ave, Magnolia, NJ 08049",5,N
+Student 606,"602 Williams Ave, Magnolia, NJ 08049",6,N
+Student 607,"608 Williams Ave, Magnolia, NJ 08049",7,Y
+Student 608,"513 Williams Ave, Magnolia, NJ 08049",8,N
+Student 609,"519 Williams Ave, Magnolia, NJ 08049",9,N
+Student 610,"606 Williams Ave, Magnolia, NJ 08049",10,N

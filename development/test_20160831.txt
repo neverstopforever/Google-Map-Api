@@ -1,0 +1,15 @@
+Hello World. Testing! 
+[08/31/2016 01:38:36]: user name: jenna
+[08/31/2016 01:38:36]: INSERT INTO `school_bus_stops`(`id`, `user_name`, `shcool_name`, `lat`, `lng`, `description`) VALUES ('','jenna','Sterling','39.84776388416466','-75.0480580329895','')
+Hello World. Testing! 
+[08/31/2016 01:39:36]: user name: jenna
+[08/31/2016 01:39:36]: UPDATE `school_bus_stops` 
+	  	        SET `user_name` = 'jenna', `shcool_name` = 'Sterling', `lat` = '39.84777947411822', `lng` = '-75.0477683214263'  , `description` = '640 Pasadina' WHERE `id` = '24'
+Hello World. Testing! 
+[08/31/2016 01:39:45]: user name: jenna
+[08/31/2016 01:39:45]: UPDATE `school_bus_stops` 
+	  	        SET `user_name` = 'jenna', `shcool_name` = 'Sterling', `lat` = '39.84785360760134', `lng` = '-75.04824039021292'  , `description` = '640 Pasadina' WHERE `id` = '24'
+Hello World. Testing! 
+[08/31/2016 01:39:51]: user name: jenna
+[08/31/2016 01:39:51]: UPDATE `school_bus_stops` 
+	  	        SET `user_name` = 'jenna', `shcool_name` = 'Sterling', `lat` = '39.84782065939651', `lng` = '-75.04825648346701'  , `description` = '640 Pasadina' WHERE `id` = '24'

@@ -1,0 +1,389 @@
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='Sterling' AND `quadrant` = '1' AND `student_special_needs` = 'N';
+ res: 39.858372 , -75.006294
+ number to round: INF number of groups: INF
+ diffs: 0 , -0
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '1' ;
+SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '1' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '1' AND `student_group` > '0' ;
+ Looping  3 bus stops 
+ bustop corner of Grant and Cornwallis in group 100
+ bustop  in group 100
+ bustop Curch Rs. in group 100
+ distance is    7071 min dist is  100000
+ distance is    1842 min dist is  100000
+ distance is    3137 min dist is  100000
+ closest to   Name13 is bus stops  stopNdx = 4 stop count= 3
+ distance is    7144 min dist is  100000
+ distance is    1682 min dist is  100000
+ distance is    3404 min dist is  100000
+ closest to   Name14 is bus stops  stopNdx = 4 stop count= 3
+ distance is    7144 min dist is  100000
+ distance is    1682 min dist is  100000
+ distance is    3404 min dist is  100000
+ closest to   Name15 is bus stops  stopNdx = 4 stop count= 3
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '2' ;
+SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '2' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '2' AND `student_group` > '0' ;
+ Looping  4 bus stops 
+ bustop Cross of Stanwick and Brookwood in group 320
+ bustop tttttttttttttttttttttt in group 320
+ bustop Elbo and Mt. Laurel  in group 310
+ bustop new bus stop  in group 320
+ distance is    2593 min dist is  100000
+ closest to   Name1 is bus stops  stopNdx = 5 stop count= 4
+ distance is    2616 min dist is  100000
+ closest to   Name2 is bus stops  stopNdx = 5 stop count= 4
+ distance is    2562 min dist is  100000
+ distance is    3937 min dist is  100000
+ distance is    2586 min dist is  100000
+ closest to   Name4 is bus stops  stopNdx = 5 stop count= 4
+ distance is    2312 min dist is  100000
+ distance is    3735 min dist is  100000
+ distance is    2769 min dist is  100000
+ closest to   Name5 is bus stops  stopNdx = 5 stop count= 4
+ distance is    1801 min dist is  100000
+ distance is    3279 min dist is  100000
+ distance is    2976 min dist is  100000
+ closest to   Name6 is bus stops  stopNdx = 5 stop count= 4
+ distance is    2489 min dist is  100000
+ closest to   chris is bus stops  stopNdx = 5 stop count= 4
+ distance is    2489 min dist is  100000
+ closest to   john is bus stops  stopNdx = 5 stop count= 4
+ distance is    2479 min dist is  100000
+ closest to   john doe is bus stops  stopNdx = 5 stop count= 4
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '3' ;
+SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '3' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '3' AND `student_group` > '0' ;
+ Looping  2 bus stops 
+ bustop  in group 510
+ bustop Pine Dr and Ark Rd.  in group 510
+ distance is    2698 min dist is  100000
+ distance is    4652 min dist is  100000
+ closest to   Name8 is bus stops  stopNdx = 3 stop count= 2
+ distance is    2154 min dist is  100000
+ distance is    4722 min dist is  100000
+ closest to   Name9 is bus stops  stopNdx = 3 stop count= 2
+ distance is    2589 min dist is  100000
+ distance is    4573 min dist is  100000
+ closest to   Name10 is bus stops  stopNdx = 3 stop count= 2
+ closest to   Student A is bus stops  stopNdx = 3 stop count= 2
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '4' ;
+SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '4' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '4' AND `student_group` > '0' ;
+ Looping  2 bus stops 
+ bustop  in group 700
+ bustop   in group 700
+ distance is    2966 min dist is  100000
+ distance is    3315 min dist is  100000
+ closest to   Name11 is bus stops  stopNdx = 3 stop count= 2
+ distance is    3280 min dist is  100000
+ distance is    3193 min dist is  100000
+ closest to   Name12 is bus stops  stopNdx = 3 stop count= 2
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '1' ;
+SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '1' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '1' AND `student_group` > '0' ;
+ Looping  3 bus stops 
+ bustop corner of Grant and Cornwallis in group 100
+ bustop  in group 100
+ bustop Curch Rs. in group 100
+ distance is    7071 min dist is  100000
+ distance is    1842 min dist is  100000
+ distance is    3137 min dist is  100000
+ closest to   Name13 is bus stops  stopNdx = 4 stop count= 3
+ distance is    7144 min dist is  100000
+ distance is    1682 min dist is  100000
+ distance is    3404 min dist is  100000
+ closest to   Name14 is bus stops  stopNdx = 4 stop count= 3
+ distance is    7144 min dist is  100000
+ distance is    1682 min dist is  100000
+ distance is    3404 min dist is  100000
+ closest to   Name15 is bus stops  stopNdx = 4 stop count= 3
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '2' ;
+SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '2' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '2' AND `student_group` > '0' ;
+ Looping  4 bus stops 
+ bustop Cross of Stanwick and Brookwood in group 320
+ bustop tttttttttttttttttttttt in group 320
+ bustop Elbo and Mt. Laurel  in group 310
+ bustop new bus stop  in group 320
+ distance is    2593 min dist is  100000
+ closest to   Name1 is bus stops  stopNdx = 5 stop count= 4
+ distance is    2616 min dist is  100000
+ closest to   Name2 is bus stops  stopNdx = 5 stop count= 4
+ distance is    2562 min dist is  100000
+ distance is    3937 min dist is  100000
+ distance is    2586 min dist is  100000
+ closest to   Name4 is bus stops  stopNdx = 5 stop count= 4
+ distance is    2312 min dist is  100000
+ distance is    3735 min dist is  100000
+ distance is    2769 min dist is  100000
+ closest to   Name5 is bus stops  stopNdx = 5 stop count= 4
+ distance is    1801 min dist is  100000
+ distance is    3279 min dist is  100000
+ distance is    2976 min dist is  100000
+ closest to   Name6 is bus stops  stopNdx = 5 stop count= 4
+ distance is    2489 min dist is  100000
+ closest to   chris is bus stops  stopNdx = 5 stop count= 4
+ distance is    2489 min dist is  100000
+ closest to   john is bus stops  stopNdx = 5 stop count= 4
+ distance is    2479 min dist is  100000
+ closest to   john doe is bus stops  stopNdx = 5 stop count= 4
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '3' ;
+SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '3' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '3' AND `student_group` > '0' ;
+ Looping  2 bus stops 
+ bustop  in group 510
+ bustop Pine Dr and Ark Rd.  in group 510
+ distance is    2698 min dist is  100000
+ distance is    4652 min dist is  100000
+ closest to   Name8 is bus stops  stopNdx = 3 stop count= 2
+ distance is    2154 min dist is  100000
+ distance is    4722 min dist is  100000
+ closest to   Name9 is bus stops  stopNdx = 3 stop count= 2
+ distance is    2589 min dist is  100000
+ distance is    4573 min dist is  100000
+ closest to   Name10 is bus stops  stopNdx = 3 stop count= 2
+ closest to   Student A is bus stops  stopNdx = 3 stop count= 2
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '4' ;
+SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '4' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='Lenape' AND `quadrant` = '4' AND `student_group` > '0' ;
+ Looping  2 bus stops 
+ bustop  in group 700
+ bustop   in group 700
+ distance is    2966 min dist is  100000
+ distance is    3315 min dist is  100000
+ closest to   Name11 is bus stops  stopNdx = 3 stop count= 2
+ distance is    3280 min dist is  100000
+ distance is    3193 min dist is  100000
+ closest to   Name12 is bus stops  stopNdx = 3 stop count= 2
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '1' AND `student_special_needs` = 'N';
+ res: 39.933601 , -74.849403
+ number to round: 0.13636363636364 number of groups: 1
+ diffs: INF , -INF
+centroids 0 - 39.933601,-74.854797
+new centroid loc for j= 0 is 39.931634,-74.849634666667 quad - 1
+end of pass 0 changedCentroidCount= 3
+new centroid loc for j= 0 is 39.931634,-74.849634666667 quad - 1
+end of pass 1 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'Lenape' AND `quadrant` = '1' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'Lenape' ,  `quadrant` = '1' , `lat` = '39.931634' , `lng` = '-74.849634666667' , `student_group` = '100' ;
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '2' AND `student_special_needs` = 'N';
+ res: 39.952702 , -74.915497
+ number to round: 0.36363636363636 number of groups: 1
+ diffs: INF , INF
+centroids 0 - 39.952702,-74.854797
+new centroid loc for j= 0 is 39.932208375,-74.896189625 quad - 2
+end of pass 0 changedCentroidCount= 8
+new centroid loc for j= 0 is 39.932208375,-74.896189625 quad - 2
+end of pass 1 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'Lenape' AND `quadrant` = '2' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'Lenape' ,  `quadrant` = '2' , `lat` = '39.932208375' , `lng` = '-74.896189625' , `student_group` = '300' ;
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '3' AND `student_special_needs` = 'N';
+ res: 39.915600 , -74.916298
+ number to round: 0.18181818181818 number of groups: 1
+ diffs: -INF , INF
+centroids 0 - 39.915600,-74.854797
+new centroid loc for j= 0 is 39.91845225,-74.8755875 quad - 3
+end of pass 0 changedCentroidCount= 4
+new centroid loc for j= 0 is 39.91845225,-74.8755875 quad - 3
+end of pass 1 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'Lenape' AND `quadrant` = '3' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'Lenape' ,  `quadrant` = '3' , `lat` = '39.91845225' , `lng` = '-74.8755875' , `student_group` = '500' ;
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '4' AND `student_special_needs` = 'N';
+ res: 39.913822 , -74.844177
+ number to round: 0.090909090909091 number of groups: 1
+ diffs: -INF , -INF
+centroids 0 - 39.913822,-74.854797
+new centroid loc for j= 0 is 39.915447,-74.8456345 quad - 4
+end of pass 0 changedCentroidCount= 2
+new centroid loc for j= 0 is 39.915447,-74.8456345 quad - 4
+end of pass 1 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'Lenape' AND `quadrant` = '4' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'Lenape' ,  `quadrant` = '4' , `lat` = '39.915447' , `lng` = '-74.8456345' , `student_group` = '700' ;
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '1' AND `student_special_needs` = 'N';
+ res: 39.933601 , -74.849403
+ number to round: 0.090909090909091 number of groups: 1
+ diffs: INF , -INF
+centroids 0 - 39.933601,-74.854797
+new centroid loc for j= 0 is 39.931634,-74.849634666667 quad - 1
+end of pass 0 changedCentroidCount= 3
+new centroid loc for j= 0 is 39.931634,-74.849634666667 quad - 1
+end of pass 1 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'Lenape' AND `quadrant` = '1' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'Lenape' ,  `quadrant` = '1' , `lat` = '39.931634' , `lng` = '-74.849634666667' , `student_group` = '100' ;
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '2' AND `student_special_needs` = 'N';
+ res: 39.952702 , -74.915497
+ number to round: 0.24242424242424 number of groups: 1
+ diffs: INF , INF
+centroids 0 - 39.952702,-74.854797
+new centroid loc for j= 0 is 39.932208375,-74.896189625 quad - 2
+end of pass 0 changedCentroidCount= 8
+new centroid loc for j= 0 is 39.932208375,-74.896189625 quad - 2
+end of pass 1 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'Lenape' AND `quadrant` = '2' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'Lenape' ,  `quadrant` = '2' , `lat` = '39.932208375' , `lng` = '-74.896189625' , `student_group` = '300' ;
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '3' AND `student_special_needs` = 'N';
+ res: 39.915600 , -74.916298
+ number to round: 0.12121212121212 number of groups: 1
+ diffs: -INF , INF
+centroids 0 - 39.915600,-74.854797
+new centroid loc for j= 0 is 39.91845225,-74.8755875 quad - 3
+end of pass 0 changedCentroidCount= 4
+new centroid loc for j= 0 is 39.91845225,-74.8755875 quad - 3
+end of pass 1 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'Lenape' AND `quadrant` = '3' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'Lenape' ,  `quadrant` = '3' , `lat` = '39.91845225' , `lng` = '-74.8755875' , `student_group` = '500' ;
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '4' AND `student_special_needs` = 'N';
+ res: 39.913822 , -74.844177
+ number to round: 0.060606060606061 number of groups: 1
+ diffs: -INF , -INF
+centroids 0 - 39.913822,-74.854797
+new centroid loc for j= 0 is 39.915447,-74.8456345 quad - 4
+end of pass 0 changedCentroidCount= 2
+new centroid loc for j= 0 is 39.915447,-74.8456345 quad - 4
+end of pass 1 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'Lenape' AND `quadrant` = '4' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'Lenape' ,  `quadrant` = '4' , `lat` = '39.915447' , `lng` = '-74.8456345' , `student_group` = '700' ;
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '1' AND `student_special_needs` = 'N';
+ res: 39.933601 , -74.849403
+ number to round: 0.1304347826087 number of groups: 1
+ diffs: INF , -INF
+centroids 0 - 39.933601,-74.854797
+new centroid loc for j= 0 is 39.931634,-74.849634666667 quad - 1
+end of pass 0 changedCentroidCount= 3
+new centroid loc for j= 0 is 39.931634,-74.849634666667 quad - 1
+end of pass 1 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'Lenape' AND `quadrant` = '1' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'Lenape' ,  `quadrant` = '1' , `lat` = '39.931634' , `lng` = '-74.849634666667' , `student_group` = '100' ;
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '2' AND `student_special_needs` = 'N';
+ res: 39.952702 , -74.915497
+ number to round: 0.34782608695652 number of groups: 1
+ diffs: INF , INF
+centroids 0 - 39.952702,-74.854797
+new centroid loc for j= 0 is 39.932208375,-74.896189625 quad - 2
+end of pass 0 changedCentroidCount= 8
+new centroid loc for j= 0 is 39.932208375,-74.896189625 quad - 2
+end of pass 1 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'Lenape' AND `quadrant` = '2' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'Lenape' ,  `quadrant` = '2' , `lat` = '39.932208375' , `lng` = '-74.896189625' , `student_group` = '300' ;
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '3' AND `student_special_needs` = 'N';
+ res: 39.915600 , -74.916298
+ number to round: 0.17391304347826 number of groups: 1
+ diffs: -INF , INF
+centroids 0 - 39.915600,-74.854797
+new centroid loc for j= 0 is 39.91845225,-74.8755875 quad - 3
+end of pass 0 changedCentroidCount= 4
+new centroid loc for j= 0 is 39.91845225,-74.8755875 quad - 3
+end of pass 1 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'Lenape' AND `quadrant` = '3' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'Lenape' ,  `quadrant` = '3' , `lat` = '39.91845225' , `lng` = '-74.8755875' , `student_group` = '500' ;
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='Lenape' AND `quadrant` = '4' AND `student_special_needs` = 'N';
+ res: 39.913822 , -74.844177
+ number to round: 0.08695652173913 number of groups: 1
+ diffs: -INF , -INF
+centroids 0 - 39.913822,-74.854797
+new centroid loc for j= 0 is 39.915447,-74.8456345 quad - 4
+end of pass 0 changedCentroidCount= 2
+new centroid loc for j= 0 is 39.915447,-74.8456345 quad - 4
+end of pass 1 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'Lenape' AND `quadrant` = '4' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'Lenape' ,  `quadrant` = '4' , `lat` = '39.915447' , `lng` = '-74.8456345' , `student_group` = '700' ;
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '1' ;
+SELECT * FROM `students` WHERE `school_name`='noam' AND `quadrant` = '1' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '1' AND `student_group` > '0' ;
+ Looping  0 bus stops 
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '2' ;
+SELECT * FROM `students` WHERE `school_name`='noam' AND `quadrant` = '2' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '2' AND `student_group` > '0' ;
+ Looping  0 bus stops 
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '3' ;
+SELECT * FROM `students` WHERE `school_name`='noam' AND `quadrant` = '3' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '3' AND `student_group` > '0' ;
+ Looping  1 bus stops 
+ bustop qerqwerqwer  in group 
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '4' ;
+SELECT * FROM `students` WHERE `school_name`='noam' AND `quadrant` = '4' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '4' AND `student_group` > '0' ;
+ Looping  0 bus stops 
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='noam' AND `quadrant` = '1' AND `student_special_needs` = 'N';
+ res: 0 , 0
+ number to round: 0 number of groups: 0
+ diffs: 39.921898 , 74.914116
+end of pass 0 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'noam' AND `quadrant` = '1' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'noam' ,  `quadrant` = '1' , `lat` = '39.921898' , `lng` = '-74.914116' , `student_group` = '0' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'noam' ,  `quadrant` = '1' , `lat` = '' , `lng` = '' , `student_group` = '' ;
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='noam' AND `quadrant` = '2' AND `student_special_needs` = 'N';
+ res: 0 , 0
+ number to round: 0 number of groups: 0
+ diffs: 39.921898 , 74.914116
+end of pass 0 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'noam' AND `quadrant` = '2' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'noam' ,  `quadrant` = '2' , `lat` = '39.921898' , `lng` = '-74.914116' , `student_group` = '0' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'noam' ,  `quadrant` = '2' , `lat` = '' , `lng` = '' , `student_group` = '' ;
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='noam' AND `quadrant` = '3' AND `student_special_needs` = 'N';
+ res: 0 , 0
+ number to round: 0 number of groups: 0
+ diffs: 39.921898 , 74.914116
+end of pass 0 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'noam' AND `quadrant` = '3' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'noam' ,  `quadrant` = '3' , `lat` = '39.921898' , `lng` = '-74.914116' , `student_group` = '0' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'noam' ,  `quadrant` = '3' , `lat` = '' , `lng` = '' , `student_group` = '' ;
+ in studentGroupCluster...
+ query is:SELECT * FROM `students` WHERE `school_name`='noam' AND `quadrant` = '4' AND `student_special_needs` = 'N';
+ res: 0 , 0
+ number to round: 0 number of groups: 0
+ diffs: 39.921898 , 74.914116
+end of pass 0 changedCentroidCount= 0
+DELETE FROM `centroids` WHERE  `user_name` = 'jenna' AND  `school_name`= 'noam' AND `quadrant` = '4' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'noam' ,  `quadrant` = '4' , `lat` = '39.921898' , `lng` = '-74.914116' , `student_group` = '0' ;
+REPLACE INTO  `centroids` SET `user_name` = 'jenna' , `school_name`= 'noam' ,  `quadrant` = '4' , `lat` = '' , `lng` = '' , `student_group` = '' ;
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '1' ;
+SELECT * FROM `students` WHERE `school_name`='noam' AND `quadrant` = '1' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '1' AND `student_group` > '0' ;
+ Looping  0 bus stops 
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '2' ;
+SELECT * FROM `students` WHERE `school_name`='noam' AND `quadrant` = '2' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '2' AND `student_group` > '0' ;
+ Looping  0 bus stops 
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '3' ;
+SELECT * FROM `students` WHERE `school_name`='noam' AND `quadrant` = '3' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '3' AND `student_group` > '0' ;
+ Looping  1 bus stops 
+ bustop qerqwerqwer  in group 
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '4' ;
+SELECT * FROM `students` WHERE `school_name`='noam' AND `quadrant` = '4' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='noam' AND `quadrant` = '4' AND `student_group` > '0' ;
+ Looping  0 bus stops 

@@ -1,0 +1,4 @@
+Hello World. Testing! 
+[12/19/2016 03:27:08]: user name: jenna
+[12/19/2016 03:27:08]: UPDATE `students` 
+	  	        SET `bus_stop_id` = '53', `bus_stop_description` = 'Juniper av '  WHERE `school_name` = 'Sterling' AND `student_name` = 'Student 301'

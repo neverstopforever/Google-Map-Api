@@ -1,0 +1,229 @@
+Hello World. Testing! 
+[01/04/2017 09:56:48]: user name: jenna
+[01/04/2017 09:56:48]: UPDATE `school_bus_stops` 
+	  	        SET `user_name` = 'jenna', `school_name` = 'Sterling', `lat` = '39.86006873710396', `lng` = '-75.01491702648923'  , `description` = 'eeee' , `quadrant` = 1 , `bearing` = 65 WHERE `id` = '54'
+Hello World. Testing! 
+[01/04/2017 09:57:43]: user name: jenna
+[01/04/2017 09:57:43]: UPDATE `school_bus_stops` 
+	  	        SET `user_name` = 'jenna', `school_name` = 'Sterling', `lat` = '39.86006900000001', `lng` = '-74.98873664001462'  , `description` = 'eeee' , `quadrant` =  , `bearing` = 33 WHERE `id` = '54'
+Hello World. Testing! 
+[01/04/2017 09:58:19]: user name: jenna
+[01/04/2017 09:58:19]: UPDATE `school_bus_stops` 
+	  	        SET `user_name` = 'jenna', `school_name` = 'Sterling', `lat` = '39.86000311530114', `lng` = '-74.9888224707031'  , `description` = 'eeee' , `quadrant` =  , `bearing` = 33 WHERE `id` = '54'
+Hello World. Testing! 
+[01/04/2017 09:59:07]: user name: jenna
+[01/04/2017 09:59:07]: UPDATE `school_bus_stops` 
+	  	        SET `user_name` = 'jenna', `school_name` = 'Sterling', `lat` = '39.86013488463562', `lng` = '-74.99225569824216'  , `description` = 'eeee' , `quadrant` =  , `bearing` = 35 WHERE `id` = '54'
+Hello World. Testing! 
+[01/04/2017 09:59:41]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:00:46]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:01:45]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:02:46]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:03:39]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:04:08]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:04:43]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:06:04]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:08:22]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:09:01]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:09:35]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:10:41]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:11:14]: user name: jenna
+[01/04/2017 10:11:14]: UPDATE `school_bus_stops` 
+	  	        SET `user_name` = 'jenna', `school_name` = 'Sterling', `lat` = '39.8591466084595', `lng` = '-75.00118208984372'  , `description` = 'jjjjjj' , `quadrant` =  , `bearing` = 43 WHERE `id` = '54'
+Hello World. Testing! 
+[01/04/2017 10:11:45]: user name: jenna
+[01/04/2017 10:11:45]: UPDATE `school_bus_stops` 
+	  	        SET `user_name` = 'jenna', `school_name` = 'Sterling', `lat` = '39.859476035432934', `lng` = '-75.00324202636716'  , `description` = 'mm' , `quadrant` = 1 , `bearing` = 46 WHERE `id` = '54'
+Hello World. Testing! 
+[01/04/2017 10:14:03]: user name: jenna
+[01/04/2017 10:14:03]: UPDATE `school_bus_stops` 
+	  	        SET `user_name` = 'jenna', `school_name` = 'Sterling', `lat` = '39.857233865329', `lng` = '-75.01010845507813'  , `description` = 'mm' , `quadrant` = 1 , `bearing` = 53 WHERE `id` = '54'
+Hello World. Testing! 
+[01/04/2017 10:14:15]: user name: jenna
+[01/04/2017 10:14:16]: UPDATE `school_bus_stops` 
+	  	        SET `user_name` = 'jenna', `school_name` = 'Sterling', `lat` = '39.85637845860954', `lng` = '-75.02040868261719'  , `description` = 'mm' , `quadrant` = 1 , `bearing` = 75 WHERE `id` = '54'
+Hello World. Testing! 
+[01/04/2017 10:14:50]: user name: jenna
+[01/04/2017 10:14:50]: UPDATE `school_bus_stops` 
+	  	        SET `user_name` = 'jenna', `school_name` = 'Sterling', `lat` = '39.859276020089176', `lng` = '-75.0117401004639'  , `description` = 'mm' , `quadrant` = 1 , `bearing` = 59 WHERE `id` = '54'
+Hello World. Testing! 
+[01/04/2017 10:28:00]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:28:31]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:32:00]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:34:40]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:36:40]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:37:34]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:38:47]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:40:12]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:41:17]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:42:09]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:42:42]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:44:34]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:45:21]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:46:31]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 10:49:24]: user name: jenna
+[01/04/2017 10:49:24]:  closest address: 
+[01/04/2017 10:49:24]: INSERT INTO `school_bus_stops`(`id`, `user_name`, `school_name`, `lat`, `lng`, `description`, `quadrant`, `bearing`) VALUES ('','jenna','Sterling','39.859928943743455','-74.98881340026855','opop ','4','33')
+Hello World. Testing! 
+[01/04/2017 10:54:32]: user name: jenna
+[01/04/2017 10:54:32]:  closest address: 
+[01/04/2017 10:54:32]: INSERT INTO `school_bus_stops`(`id`, `user_name`, `school_name`, `lat`, `lng`, `description`, `quadrant`, `bearing`) VALUES ('','jenna','Sterling','39.85419672660379','-74.99937057495117','opopop ','4','34')
+Hello World. Testing! 
+[01/04/2017 10:54:46]: user name: jenna
+[01/04/2017 10:54:46]:  closest address: 
+[01/04/2017 10:54:46]: INSERT INTO `school_bus_stops`(`id`, `user_name`, `school_name`, `lat`, `lng`, `description`, `quadrant`, `bearing`) VALUES ('','jenna','Sterling','39.85366960214034','-75.01542091369629','opopopop ','4','59')
+Hello World. Testing! 
+[01/04/2017 10:55:08]: user name: jenna
+[01/04/2017 10:55:08]: DELETE FROM `school_bus_stops` WHERE id='57'
+Hello World. Testing! 
+[01/04/2017 10:56:31]: user name: jenna
+[01/04/2017 10:56:31]:  closest address: 
+[01/04/2017 10:56:31]: INSERT INTO `school_bus_stops`(`id`, `user_name`, `school_name`, `lat`, `lng`, `description`, `quadrant`, `bearing`) VALUES ('','jenna','Sterling','39.856649037578705','-75.00426292419434','ooopppp ','3','43')
+Hello World. Testing! 
+[01/04/2017 10:57:17]: user name: jenna
+[01/04/2017 10:57:17]: UPDATE `school_bus_stops` 
+	  	        SET `user_name` = 'jenna', `school_name` = 'Sterling', `lat` = '39.86672711636565', `lng` = '-75.00675408996585'  , `description` = 'ooopppp ' , `quadrant` = 3 , `bearing` = 58 WHERE `id` = '58'
+Hello World. Testing! 
+[01/04/2017 11:15:19]: user name: jenna
+[01/04/2017 11:15:19]: calling getStudentGroupQI jenna, Sterling, 39.836330, -75.025787, 2, 2,  , 1
+Hello World. Testing! 
+[01/04/2017 11:38:38]: user name: jenna
+[01/04/2017 11:38:38]: UPDATE `school_bus_stops` 
+	  	        SET `user_name` = 'jenna', `school_name` = 'Sterling', `lat` = '39.8553817980391', `lng` = '-75.00426452392577'  , `description` = 'opop ' , `quadrant` = 3 , `bearing` = 42 WHERE `id` = '55'
+Hello World. Testing! 
+[01/04/2017 11:39:15]: user name: jenna
+[01/04/2017 11:39:15]:  closest address: 
+[01/04/2017 11:39:15]: INSERT INTO `school_bus_stops`(`id`, `user_name`, `school_name`, `lat`, `lng`, `description`, `quadrant`, `bearing`) VALUES ('','jenna','Sterling','39.85241766531505','-75.05610466003418','ooooooooooooooooooo ','3','152')
+Hello World. Testing! 
+[01/04/2017 01:16:07]: user name: jenna
+[01/04/2017 01:16:07]:  closest address: 
+[01/04/2017 01:16:07]: INSERT INTO `school_bus_stops`(`id`, `user_name`, `school_name`, `lat`, `lng`, `description`, `quadrant`, `bearing`) VALUES ('','jenna','Sterling','39.81893636170157','-75.00778198242188','pppppppppppppp ','3','316')
+Hello World. Testing! 
+[01/04/2017 01:21:09]: user name: jenna
+[01/04/2017 01:21:09]: UPDATE `school_bus_stops` 
+	  	        SET `user_name` = 'jenna', `school_name` = 'Lenape', `lat` = '39.93535727486539', `lng` = '-74.81281426428222'  , `description` = 'Pine Dr and Ark Rd. ' , `quadrant` = 3 , `bearing` = 19 WHERE `id` = '31'
+Hello World. Testing! 
+[01/04/2017 02:43:55]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 02:44:01]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 02:44:55]: user name: jenna
+[01/04/2017 02:44:55]: UPDATE `students` 
+	  	        SET `student_group` = 'newnew'  WHERE `school_name` = 'Lenape' AND `student_name` = 'Name13'
+[01/04/2017 02:44:55]: UPDATE `students` 
+	  	        SET `student_group` = 'newnew'  WHERE `school_name` = 'Lenape' AND `student_name` = 'Name13'
+Hello World. Testing! 
+[01/04/2017 02:45:51]: user name: jenna
+[01/04/2017 02:45:51]: calling getStudentGroupQI jenna, Lenape, 39.920967, -74.854797, 2, 2, 22 , 1
+Hello World. Testing! 
+[01/04/2017 02:46:08]: user name: jenna
+[01/04/2017 02:46:08]: calling getStudentGroupQI jenna, Lenape, 39.920967, -74.854797, 2, 2, 33 , 1
+Hello World. Testing! 
+[01/04/2017 02:47:13]: user name: jenna
+[01/04/2017 02:47:13]: calling getStudentGroupQI jenna, Lenape, 39.920967, -74.854797, 2, 2, 23 , 1
+Hello World. Testing! 
+[01/04/2017 02:48:12]: user name: jenna
+[01/04/2017 02:48:12]:  closest address: 
+[01/04/2017 02:48:12]: INSERT INTO `school_bus_stops`(`id`, `user_name`, `school_name`, `lat`, `lng`, `description`, `quadrant`, `bearing`) VALUES ('','jenna','Lenape','40.00546201432995','-74.86152648925781','ttttt ','3','95')
+Hello World. Testing! 
+[01/04/2017 03:27:56]: user name: jenna
+[01/04/2017 03:27:56]:  closest address: 
+[01/04/2017 03:27:56]: INSERT INTO `school_bus_stops`(`id`, `user_name`, `school_name`, `lat`, `lng`, `description`, `quadrant`, `bearing`) VALUES ('','jenna','noam','39.929204747004356','-74.89912033081055','888 ','3','26')
+Hello World. Testing! 
+[01/04/2017 03:28:44]: user name: jenna
+[01/04/2017 03:28:44]: DELETE FROM `school_bus_stops` WHERE id='62'
+Hello World. Testing! 
+[01/04/2017 03:29:45]: user name: jenna
+[01/04/2017 03:29:45]:  closest address: 
+[01/04/2017 03:29:45]: INSERT INTO `school_bus_stops`(`id`, `user_name`, `school_name`, `lat`, `lng`, `description`, `quadrant`, `bearing`) VALUES ('','jenna','noam','39.91994020268281','-74.94941711425781','qerqwerqwer ','3','183')
+Hello World. Testing! 
+[01/04/2017 03:32:32]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 03:35:27]: user name: jenna
+[01/04/2017 03:35:27]: calling getStudentGroupQI jenna, noam, 39.921898, -74.914116, 2, 2, 222 , 1
+Hello World. Testing! 
+[01/04/2017 03:35:37]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 04:42:45]: user name: jenna
+[01/04/2017 04:42:45]:  closest address: 
+[01/04/2017 04:42:45]: INSERT INTO `school_bus_stops`(`id`, `user_name`, `school_name`, `lat`, `lng`, `description`, `quadrant`, `bearing`) VALUES ('','jenna','noam','39.89995874881023','-74.96280670166016','uu ','3','204')
+Hello World. Testing! 
+[01/04/2017 04:46:02]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 04:47:59]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 04:49:07]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 04:49:50]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 04:50:10]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 04:51:14]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:24:58]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:25:24]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:25:35]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:25:59]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:26:28]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:26:55]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:27:12]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:28:13]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:32:10]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:32:37]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:32:47]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:35:30]: user name: jenna
+[01/04/2017 06:35:30]:  closest address: 
+[01/04/2017 06:35:30]: INSERT INTO `school_bus_stops`(`id`, `user_name`, `school_name`, `lat`, `lng`, `description`, `quadrant`, `bearing`) VALUES ('','jenna','noam','39.9190679874112','-74.8949146270752','o ','3','352')
+Hello World. Testing! 
+[01/04/2017 06:36:58]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:37:07]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:40:06]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:40:18]: user name: jenna
+Hello World. Testing! 
+[01/04/2017 06:59:34]: user name: jenna
+[01/04/2017 06:59:34]:  closest address: 
+[01/04/2017 06:59:34]: INSERT INTO `school_bus_stops`(`id`, `user_name`, `school_name`, `lat`, `lng`, `description`, `quadrant`, `bearing`) VALUES ('','jenna','noam','39.93289046929737','-74.90890502929688','yyy ','1','65')
+Hello World. Testing! 
+[01/04/2017 07:00:31]: user name: jenna
+[01/04/2017 07:00:31]:  closest address: 
+[01/04/2017 07:00:31]: INSERT INTO `school_bus_stops`(`id`, `user_name`, `school_name`, `lat`, `lng`, `description`, `quadrant`, `bearing`) VALUES ('','jenna','noam','39.92599603253352','-74.8663330078125','j ','1','5')

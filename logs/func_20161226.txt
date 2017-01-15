@@ -1,0 +1,1172 @@
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='Sterling' AND `quadrant` = '1' ;
+SELECT * FROM `students` WHERE `school_name`='Sterling' AND `quadrant` = '1' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='Sterling' AND `quadrant` = '1' AND `student_group` > '0' ;
+ Looping  20 bus stops 
+ bustop jklhjkl in group 100
+ bustop Bowning av. in group 110
+ bustop Stop 1 in group 110
+ bustop  in group 110
+ bustop Stop 3  in group 110
+ bustop Stop 4  in group 110
+ bustop Stop 5  in group 110
+ bustop  in group 100
+ bustop Hilltop av. in group 100
+ bustop Stop 9  in group 100
+ bustop Stop 12  in group 120
+ bustop Stop 14  in group 120
+ bustop Stop 15  in group 120
+ bustop Stop 16  in group 130
+ bustop Maiden ln in group 100
+ bustop Somerdale rd. in group 100
+ bustop   in group 110
+ bustop   in group 110
+ bustop Juniper av  in group 120
+ bustop   in group 130
+ distance is    88 min dist is  100000
+ distance is    1317 min dist is  88
+ closest to   Student 540 is bus stops Stop 16  stopNdx = 13 stop count= 20
+ distance is    39 min dist is  100000
+ distance is    1229 min dist is  39
+ closest to   Student 537 is bus stops Stop 16  stopNdx = 13 stop count= 20
+ distance is    102 min dist is  100000
+ distance is    1321 min dist is  102
+ closest to   Student 534 is bus stops Stop 16  stopNdx = 13 stop count= 20
+ distance is    147 min dist is  100000
+ distance is    1093 min dist is  147
+ closest to   Student 530 is bus stops Stop 16  stopNdx = 13 stop count= 20
+ distance is    47 min dist is  100000
+ distance is    1191 min dist is  47
+ closest to   Student 531 is bus stops Stop 16  stopNdx = 13 stop count= 20
+ distance is    669 min dist is  100000
+ distance is    817 min dist is  100000
+ distance is    92 min dist is  100000
+ distance is    663 min dist is  92
+ closest to   Student 466 is bus stops Stop 15  stopNdx = 12 stop count= 20
+ distance is    630 min dist is  100000
+ distance is    776 min dist is  100000
+ distance is    41 min dist is  100000
+ distance is    632 min dist is  41
+ closest to   Student 465 is bus stops Stop 15  stopNdx = 12 stop count= 20
+ distance is    656 min dist is  100000
+ distance is    797 min dist is  100000
+ distance is    50 min dist is  100000
+ distance is    669 min dist is  50
+ closest to   Student 463 is bus stops Stop 15  stopNdx = 12 stop count= 20
+ distance is    641 min dist is  100000
+ distance is    788 min dist is  100000
+ distance is    55 min dist is  100000
+ distance is    641 min dist is  55
+ closest to   Student 464 is bus stops Stop 15  stopNdx = 12 stop count= 20
+ distance is    688 min dist is  100000
+ distance is    832 min dist is  100000
+ distance is    77 min dist is  100000
+ distance is    694 min dist is  77
+ closest to   Student 459 is bus stops Stop 15  stopNdx = 12 stop count= 20
+ distance is    656 min dist is  100000
+ distance is    797 min dist is  100000
+ distance is    50 min dist is  100000
+ distance is    669 min dist is  50
+ closest to   Student 454 is bus stops Stop 15  stopNdx = 12 stop count= 20
+ distance is    641 min dist is  100000
+ distance is    788 min dist is  100000
+ distance is    55 min dist is  100000
+ distance is    641 min dist is  55
+ closest to   Student 455 is bus stops Stop 15  stopNdx = 12 stop count= 20
+ distance is    688 min dist is  100000
+ distance is    832 min dist is  100000
+ distance is    77 min dist is  100000
+ distance is    694 min dist is  77
+ closest to   Student 450 is bus stops Stop 15  stopNdx = 12 stop count= 20
+ distance is    97 min dist is  100000
+ distance is    213 min dist is  97
+ distance is    617 min dist is  97
+ distance is    29 min dist is  97
+ closest to   Student 437 is bus stops Juniper av  stopNdx = 18 stop count= 20
+ distance is    260 min dist is  100000
+ distance is    373 min dist is  260
+ distance is    602 min dist is  260
+ distance is    140 min dist is  260
+ closest to   Student 436 is bus stops Juniper av  stopNdx = 18 stop count= 20
+ distance is    131 min dist is  100000
+ distance is    221 min dist is  131
+ distance is    651 min dist is  131
+ distance is    29 min dist is  131
+ closest to   Student 435 is bus stops Juniper av  stopNdx = 18 stop count= 20
+ distance is    137 min dist is  100000
+ distance is    259 min dist is  137
+ distance is    595 min dist is  137
+ distance is    29 min dist is  137
+ closest to   Student 434 is bus stops Juniper av  stopNdx = 18 stop count= 20
+ distance is    238 min dist is  100000
+ distance is    366 min dist is  238
+ distance is    554 min dist is  238
+ distance is    132 min dist is  238
+ closest to   Student 433 is bus stops Juniper av  stopNdx = 18 stop count= 20
+ distance is    165 min dist is  100000
+ distance is    289 min dist is  165
+ distance is    583 min dist is  165
+ distance is    57 min dist is  165
+ closest to   Student 432 is bus stops Juniper av  stopNdx = 18 stop count= 20
+ distance is    108 min dist is  100000
+ distance is    168 min dist is  108
+ distance is    680 min dist is  108
+ distance is    76 min dist is  108
+ closest to   Student 431 is bus stops Juniper av  stopNdx = 18 stop count= 20
+ distance is    231 min dist is  100000
+ distance is    78 min dist is  231
+ distance is    827 min dist is  78
+ distance is    309 min dist is  78
+ closest to   Student 430 is bus stops Stop 14  stopNdx = 11 stop count= 20
+ distance is    185 min dist is  100000
+ distance is    44 min dist is  185
+ distance is    774 min dist is  44
+ distance is    277 min dist is  44
+ closest to   Student 429 is bus stops Stop 14  stopNdx = 11 stop count= 20
+ distance is    152 min dist is  100000
+ distance is    74 min dist is  152
+ distance is    300 min dist is  74
+ distance is    117 min dist is  74
+ distance is    266 min dist is  74
+ distance is    384 min dist is  74
+ closest to   Student 428 is bus stops  stopNdx = 7 stop count= 20
+ distance is    193 min dist is  100000
+ distance is    180 min dist is  193
+ distance is    246 min dist is  180
+ distance is    251 min dist is  180
+ distance is    80 min dist is  180
+ distance is    205 min dist is  80
+ closest to   Student 427 is bus stops Maiden ln stopNdx = 14 stop count= 20
+ distance is    104 min dist is  100000
+ distance is    18 min dist is  104
+ distance is    250 min dist is  18
+ distance is    147 min dist is  18
+ distance is    230 min dist is  18
+ distance is    328 min dist is  18
+ closest to   Student 426 is bus stops  stopNdx = 7 stop count= 20
+ distance is    129 min dist is  100000
+ distance is    59 min dist is  129
+ distance is    257 min dist is  59
+ distance is    140 min dist is  59
+ distance is    171 min dist is  59
+ distance is    302 min dist is  59
+ closest to   Student 425 is bus stops  stopNdx = 7 stop count= 20
+ distance is    164 min dist is  100000
+ distance is    76 min dist is  164
+ distance is    306 min dist is  76
+ distance is    88 min dist is  76
+ distance is    220 min dist is  76
+ distance is    367 min dist is  76
+ closest to   Student 424 is bus stops  stopNdx = 7 stop count= 20
+ distance is    182 min dist is  100000
+ distance is    200 min dist is  182
+ distance is    194 min dist is  182
+ distance is    304 min dist is  182
+ distance is    140 min dist is  182
+ distance is    140 min dist is  140
+ closest to   Student 423 is bus stops Maiden ln stopNdx = 14 stop count= 20
+ distance is    83 min dist is  100000
+ distance is    58 min dist is  83
+ distance is    202 min dist is  58
+ distance is    194 min dist is  58
+ distance is    183 min dist is  58
+ distance is    257 min dist is  58
+ closest to   Student 422 is bus stops  stopNdx = 7 stop count= 20
+ distance is    273 min dist is  100000
+ distance is    193 min dist is  273
+ distance is    421 min dist is  193
+ distance is    96 min dist is  193
+ distance is    333 min dist is  96
+ distance is    498 min dist is  96
+ closest to   Student 420 is bus stops Stop 9  stopNdx = 9 stop count= 20
+ distance is    143 min dist is  100000
+ distance is    57 min dist is  143
+ distance is    284 min dist is  57
+ distance is    109 min dist is  57
+ distance is    206 min dist is  57
+ distance is    343 min dist is  57
+ closest to   Student 421 is bus stops  stopNdx = 7 stop count= 20
+ distance is    223 min dist is  100000
+ distance is    217 min dist is  223
+ distance is    257 min dist is  217
+ distance is    285 min dist is  217
+ distance is    81 min dist is  217
+ distance is    189 min dist is  81
+ closest to   Student 419 is bus stops Maiden ln stopNdx = 14 stop count= 20
+ distance is    280 min dist is  100000
+ distance is    203 min dist is  280
+ distance is    427 min dist is  203
+ distance is    120 min dist is  203
+ distance is    355 min dist is  120
+ distance is    512 min dist is  120
+ closest to   Student 418 is bus stops Stop 9  stopNdx = 9 stop count= 20
+ distance is    22 min dist is  100000
+ distance is    175 min dist is  22
+ distance is    590 min dist is  22
+ distance is    123 min dist is  22
+ closest to   Student 405 is bus stops Stop 12  stopNdx = 10 stop count= 20
+ distance is    77 min dist is  100000
+ distance is    78 min dist is  77
+ distance is    678 min dist is  77
+ distance is    182 min dist is  77
+ closest to   Student 406 is bus stops Stop 12  stopNdx = 10 stop count= 20
+ distance is    50 min dist is  100000
+ distance is    202 min dist is  50
+ distance is    572 min dist is  50
+ distance is    104 min dist is  50
+ closest to   Student 407 is bus stops Stop 12  stopNdx = 10 stop count= 20
+ distance is    210 min dist is  100000
+ distance is    355 min dist is  210
+ distance is    493 min dist is  210
+ distance is    143 min dist is  210
+ closest to   Student 404 is bus stops Juniper av  stopNdx = 18 stop count= 20
+ distance is    178 min dist is  100000
+ distance is    315 min dist is  178
+ distance is    542 min dist is  178
+ distance is    93 min dist is  178
+ closest to   Student 401 is bus stops Juniper av  stopNdx = 18 stop count= 20
+ distance is    253 min dist is  100000
+ distance is    397 min dist is  253
+ distance is    481 min dist is  253
+ distance is    177 min dist is  253
+ closest to   Student 402 is bus stops Juniper av  stopNdx = 18 stop count= 20
+ distance is    156 min dist is  100000
+ distance is    303 min dist is  156
+ distance is    514 min dist is  156
+ distance is    108 min dist is  156
+ closest to   Student 403 is bus stops Juniper av  stopNdx = 18 stop count= 20
+ distance is    85 min dist is  100000
+ distance is    221 min dist is  85
+ distance is    585 min dist is  85
+ distance is    56 min dist is  85
+ closest to   Student 400 is bus stops Juniper av  stopNdx = 18 stop count= 20
+ distance is    575 min dist is  100000
+ distance is    721 min dist is  100000
+ distance is    59 min dist is  100000
+ distance is    575 min dist is  59
+ closest to   Student 391 is bus stops Stop 15  stopNdx = 12 stop count= 20
+ distance is    224 min dist is  100000
+ distance is    296 min dist is  224
+ distance is    98 min dist is  224
+ distance is    445 min dist is  98
+ distance is    321 min dist is  98
+ distance is    90 min dist is  98
+ closest to   Student 389 is bus stops Somerdale rd. stopNdx = 15 stop count= 20
+ distance is    60 min dist is  100000
+ distance is    146 min dist is  60
+ distance is    101 min dist is  60
+ distance is    310 min dist is  60
+ distance is    305 min dist is  60
+ distance is    244 min dist is  60
+ closest to   Student 390 is bus stops jklhjkl stopNdx = 0 stop count= 20
+ distance is    163 min dist is  100000
+ distance is    235 min dist is  163
+ distance is    64 min dist is  163
+ distance is    385 min dist is  64
+ distance is    280 min dist is  64
+ distance is    111 min dist is  64
+ closest to   Student 388 is bus stops Hilltop av. stopNdx = 8 stop count= 20
+ distance is    264 min dist is  100000
+ distance is    340 min dist is  264
+ distance is    125 min dist is  264
+ distance is    492 min dist is  125
+ distance is    368 min dist is  125
+ distance is    119 min dist is  125
+ closest to   Student 387 is bus stops Somerdale rd. stopNdx = 15 stop count= 20
+ distance is    76 min dist is  100000
+ distance is    159 min dist is  76
+ distance is    73 min dist is  76
+ distance is    321 min dist is  73
+ distance is    279 min dist is  73
+ distance is    199 min dist is  73
+ closest to   Student 385 is bus stops Hilltop av. stopNdx = 8 stop count= 20
+ distance is    580 min dist is  100000
+ distance is    725 min dist is  100000
+ distance is    36 min dist is  100000
+ distance is    587 min dist is  36
+ closest to   Student 386 is bus stops Stop 15  stopNdx = 12 stop count= 20
+ distance is    263 min dist is  100000
+ distance is    203 min dist is  263
+ distance is    362 min dist is  203
+ distance is    168 min dist is  203
+ distance is    84 min dist is  168
+ distance is    338 min dist is  84
+ closest to   Student 374 is bus stops Maiden ln stopNdx = 14 stop count= 20
+ distance is    131 min dist is  100000
+ distance is    63 min dist is  131
+ distance is    278 min dist is  63
+ distance is    146 min dist is  63
+ distance is    276 min dist is  63
+ distance is    372 min dist is  63
+ closest to   Student 373 is bus stops  stopNdx = 7 stop count= 20
+ distance is    146 min dist is  100000
+ distance is    157 min dist is  146
+ distance is    254 min dist is  146
+ distance is    271 min dist is  146
+ distance is    381 min dist is  146
+ distance is    397 min dist is  146
+ closest to   Student 372 is bus stops jklhjkl stopNdx = 0 stop count= 20
+ distance is    167 min dist is  100000
+ distance is    114 min dist is  167
+ distance is    310 min dist is  114
+ distance is    165 min dist is  114
+ distance is    326 min dist is  114
+ distance is    418 min dist is  114
+ closest to   Student 371 is bus stops  stopNdx = 7 stop count= 20
+ distance is    245 min dist is  100000
+ distance is    160 min dist is  245
+ distance is    391 min dist is  160
+ distance is    50 min dist is  160
+ distance is    283 min dist is  50
+ distance is    456 min dist is  50
+ closest to   Student 369 is bus stops Stop 9  stopNdx = 9 stop count= 20
+ distance is    251 min dist is  100000
+ distance is    169 min dist is  251
+ distance is    380 min dist is  169
+ distance is    66 min dist is  169
+ distance is    181 min dist is  66
+ distance is    401 min dist is  66
+ closest to   Student 370 is bus stops Stop 9  stopNdx = 9 stop count= 20
+ distance is    282 min dist is  100000
+ distance is    195 min dist is  282
+ distance is    421 min dist is  195
+ distance is    34 min dist is  195
+ distance is    244 min dist is  34
+ distance is    457 min dist is  34
+ closest to   Student 368 is bus stops Stop 9  stopNdx = 9 stop count= 20
+ distance is    258 min dist is  100000
+ distance is    236 min dist is  258
+ distance is    306 min dist is  236
+ distance is    272 min dist is  236
+ distance is    37 min dist is  236
+ distance is    236 min dist is  37
+ closest to   Student 366 is bus stops Maiden ln stopNdx = 14 stop count= 20
+ distance is    241 min dist is  100000
+ distance is    195 min dist is  241
+ distance is    324 min dist is  195
+ distance is    201 min dist is  195
+ distance is    42 min dist is  195
+ distance is    290 min dist is  42
+ closest to   Student 364 is bus stops Maiden ln stopNdx = 14 stop count= 20
+ distance is    276 min dist is  100000
+ distance is    190 min dist is  276
+ distance is    421 min dist is  190
+ distance is    42 min dist is  190
+ distance is    284 min dist is  42
+ distance is    477 min dist is  42
+ closest to   Student 361 is bus stops Stop 9  stopNdx = 9 stop count= 20
+ distance is    240 min dist is  100000
+ distance is    215 min dist is  240
+ distance is    296 min dist is  215
+ distance is    253 min dist is  215
+ distance is    32 min dist is  215
+ distance is    238 min dist is  32
+ closest to   Student 362 is bus stops Maiden ln stopNdx = 14 stop count= 20
+ distance is    221 min dist is  100000
+ distance is    164 min dist is  221
+ distance is    322 min dist is  164
+ distance is    158 min dist is  164
+ distance is    85 min dist is  158
+ distance is    311 min dist is  85
+ closest to   Student 358 is bus stops Maiden ln stopNdx = 14 stop count= 20
+ distance is    166 min dist is  100000
+ distance is    92 min dist is  166
+ distance is    293 min dist is  92
+ distance is    114 min dist is  92
+ distance is    157 min dist is  92
+ distance is    325 min dist is  92
+ closest to   Student 357 is bus stops  stopNdx = 7 stop count= 20
+ distance is    213 min dist is  100000
+ distance is    136 min dist is  213
+ distance is    338 min dist is  136
+ distance is    91 min dist is  136
+ distance is    153 min dist is  91
+ distance is    358 min dist is  91
+ closest to   Student 356 is bus stops Stop 9  stopNdx = 9 stop count= 20
+ distance is    56 min dist is  100000
+ distance is    282 min dist is  56
+ distance is    647 min dist is  56
+ distance is    688 min dist is  56
+ distance is    387 min dist is  56
+ distance is    795 min dist is  56
+ distance is    690 min dist is  56
+ distance is    615 min dist is  56
+ closest to   Student 304 is bus stops Bowning av. stopNdx = 1 stop count= 20
+ distance is    468 min dist is  100000
+ distance is    455 min dist is  100000
+ distance is    970 min dist is  100000
+ distance is    378 min dist is  100000
+ closest to   Student 301 is bus stops Juniper av  stopNdx = 18 stop count= 20
+ distance is    902 min dist is  100000
+ distance is    1012 min dist is  100000
+ distance is    794 min dist is  100000
+ distance is    400 min dist is  100000
+ distance is    631 min dist is  400
+ distance is    79 min dist is  400
+ distance is    363 min dist is  79
+ distance is    815 min dist is  79
+ closest to   Student 302 is bus stops Stop 5  stopNdx = 6 stop count= 20
+ distance is    682 min dist is  100000
+ distance is    791 min dist is  100000
+ distance is    636 min dist is  100000
+ distance is    285 min dist is  100000
+ distance is    423 min dist is  285
+ distance is    148 min dist is  285
+ distance is    251 min dist is  148
+ distance is    648 min dist is  148
+ closest to   Student 299 is bus stops Stop 5  stopNdx = 6 stop count= 20
+ distance is    950 min dist is  100000
+ distance is    1043 min dist is  100000
+ distance is    792 min dist is  100000
+ distance is    394 min dist is  100000
+ distance is    654 min dist is  394
+ distance is    121 min dist is  394
+ distance is    360 min dist is  121
+ distance is    816 min dist is  121
+ closest to   Student 300 is bus stops Stop 5  stopNdx = 6 stop count= 20
+ distance is    493 min dist is  100000
+ distance is    745 min dist is  100000
+ closest to   Student 296 is bus stops  stopNdx = 21 stop count= 20
+ distance is    51 min dist is  100000
+ distance is    319 min dist is  51
+ distance is    738 min dist is  51
+ distance is    786 min dist is  51
+ distance is    487 min dist is  51
+ distance is    880 min dist is  51
+ distance is    787 min dist is  51
+ distance is    704 min dist is  51
+ closest to   Student 298 is bus stops Bowning av. stopNdx = 1 stop count= 20
+ distance is    493 min dist is  100000
+ distance is    745 min dist is  100000
+ closest to   Student 297 is bus stops  stopNdx = 21 stop count= 20
+ distance is    493 min dist is  100000
+ distance is    745 min dist is  100000
+ closest to   Student 295 is bus stops  stopNdx = 21 stop count= 20
+ distance is    493 min dist is  100000
+ distance is    745 min dist is  100000
+ closest to   Student 293 is bus stops  stopNdx = 21 stop count= 20
+ distance is    493 min dist is  100000
+ distance is    745 min dist is  100000
+ closest to   Student 294 is bus stops  stopNdx = 21 stop count= 20
+ distance is    493 min dist is  100000
+ distance is    745 min dist is  100000
+ closest to   Student 290 is bus stops  stopNdx = 21 stop count= 20
+ distance is    493 min dist is  100000
+ distance is    745 min dist is  100000
+ closest to   Student 291 is bus stops  stopNdx = 21 stop count= 20
+ distance is    239 min dist is  100000
+ distance is    279 min dist is  239
+ distance is    189 min dist is  239
+ distance is    394 min dist is  189
+ distance is    213 min dist is  189
+ distance is    57 min dist is  189
+ closest to   Student 258 is bus stops Somerdale rd. stopNdx = 15 stop count= 20
+ distance is    441 min dist is  100000
+ distance is    389 min dist is  100000
+ distance is    513 min dist is  389
+ distance is    329 min dist is  389
+ distance is    188 min dist is  329
+ distance is    434 min dist is  188
+ closest to   Student 252 is bus stops Maiden ln stopNdx = 14 stop count= 20
+ distance is    370 min dist is  100000
+ distance is    55 min dist is  370
+ distance is    509 min dist is  55
+ distance is    743 min dist is  55
+ distance is    423 min dist is  55
+ distance is    965 min dist is  55
+ distance is    761 min dist is  55
+ distance is    465 min dist is  55
+ closest to   Student 245 is bus stops Stop 1 stopNdx = 2 stop count= 20
+ distance is    363 min dist is  100000
+ distance is    47 min dist is  363
+ distance is    510 min dist is  47
+ distance is    739 min dist is  47
+ distance is    419 min dist is  47
+ distance is    960 min dist is  47
+ distance is    757 min dist is  47
+ distance is    466 min dist is  47
+ closest to   Student 246 is bus stops Stop 1 stopNdx = 2 stop count= 20
+ distance is    429 min dist is  100000
+ distance is    114 min dist is  100000
+ distance is    505 min dist is  114
+ distance is    768 min dist is  114
+ distance is    457 min dist is  114
+ distance is    1005 min dist is  114
+ distance is    789 min dist is  114
+ distance is    460 min dist is  114
+ closest to   Student 241 is bus stops Stop 1 stopNdx = 2 stop count= 20
+ distance is    403 min dist is  100000
+ distance is    88 min dist is  100000
+ distance is    507 min dist is  88
+ distance is    758 min dist is  88
+ distance is    443 min dist is  88
+ distance is    988 min dist is  88
+ distance is    777 min dist is  88
+ distance is    463 min dist is  88
+ closest to   Student 244 is bus stops Stop 1 stopNdx = 2 stop count= 20
+ distance is    438 min dist is  100000
+ distance is    122 min dist is  100000
+ distance is    490 min dist is  122
+ distance is    758 min dist is  122
+ distance is    449 min dist is  122
+ distance is    999 min dist is  122
+ distance is    779 min dist is  122
+ distance is    445 min dist is  122
+ closest to   Student 242 is bus stops Stop 1 stopNdx = 2 stop count= 20
+ distance is    287 min dist is  100000
+ distance is    46 min dist is  287
+ distance is    503 min dist is  46
+ distance is    687 min dist is  46
+ distance is    361 min dist is  46
+ distance is    889 min dist is  46
+ distance is    701 min dist is  46
+ distance is    462 min dist is  46
+ closest to   Student 240 is bus stops Stop 1 stopNdx = 2 stop count= 20
+ distance is    209 min dist is  100000
+ distance is    123 min dist is  209
+ distance is    531 min dist is  123
+ distance is    664 min dist is  123
+ distance is    337 min dist is  123
+ distance is    839 min dist is  123
+ distance is    674 min dist is  123
+ distance is    493 min dist is  123
+ closest to   Student 239 is bus stops Stop 1 stopNdx = 2 stop count= 20
+ distance is    239 min dist is  100000
+ distance is    92 min dist is  239
+ distance is    518 min dist is  92
+ distance is    671 min dist is  92
+ distance is    344 min dist is  92
+ distance is    857 min dist is  92
+ distance is    683 min dist is  92
+ distance is    479 min dist is  92
+ closest to   Student 237 is bus stops Stop 1 stopNdx = 2 stop count= 20
+ distance is    262 min dist is  100000
+ distance is    69 min dist is  262
+ distance is    511 min dist is  69
+ distance is    678 min dist is  69
+ distance is    351 min dist is  69
+ distance is    872 min dist is  69
+ distance is    692 min dist is  69
+ distance is    470 min dist is  69
+ closest to   Student 238 is bus stops Stop 1 stopNdx = 2 stop count= 20
+ distance is    177 min dist is  100000
+ distance is    144 min dist is  177
+ distance is    566 min dist is  144
+ distance is    685 min dist is  144
+ distance is    361 min dist is  144
+ distance is    848 min dist is  144
+ distance is    695 min dist is  144
+ distance is    528 min dist is  144
+ closest to   Student 236 is bus stops Stop 1 stopNdx = 2 stop count= 20
+ distance is    457 min dist is  100000
+ distance is    435 min dist is  100000
+ distance is    329 min dist is  100000
+ distance is    297 min dist is  329
+ distance is    39 min dist is  297
+ distance is    513 min dist is  39
+ distance is    308 min dist is  39
+ distance is    320 min dist is  39
+ closest to   Student 165 is bus stops Stop 4  stopNdx = 5 stop count= 20
+ distance is    667 min dist is  100000
+ distance is    490 min dist is  100000
+ distance is    36 min dist is  100000
+ distance is    389 min dist is  36
+ distance is    279 min dist is  36
+ distance is    710 min dist is  36
+ distance is    423 min dist is  36
+ distance is    33 min dist is  36
+ closest to   Student 164 is bus stops   stopNdx = 17 stop count= 20
+ distance is    727 min dist is  100000
+ distance is    552 min dist is  100000
+ distance is    33 min dist is  100000
+ distance is    381 min dist is  33
+ distance is    326 min dist is  33
+ distance is    710 min dist is  33
+ distance is    416 min dist is  33
+ distance is    78 min dist is  33
+ closest to   Student 162 is bus stops  stopNdx = 3 stop count= 20
+ distance is    737 min dist is  100000
+ distance is    532 min dist is  100000
+ distance is    60 min dist is  100000
+ distance is    454 min dist is  60
+ distance is    365 min dist is  60
+ distance is    782 min dist is  60
+ distance is    489 min dist is  60
+ distance is    69 min dist is  60
+ closest to   Student 163 is bus stops  stopNdx = 3 stop count= 20
+ distance is    501 min dist is  100000
+ distance is    430 min dist is  100000
+ distance is    256 min dist is  100000
+ distance is    295 min dist is  256
+ distance is    62 min dist is  256
+ distance is    554 min dist is  62
+ distance is    315 min dist is  62
+ distance is    247 min dist is  62
+ closest to   Student 161 is bus stops Stop 4  stopNdx = 5 stop count= 20
+ distance is    701 min dist is  100000
+ distance is    511 min dist is  100000
+ distance is    20 min dist is  100000
+ distance is    416 min dist is  20
+ distance is    320 min dist is  20
+ distance is    741 min dist is  20
+ distance is    451 min dist is  20
+ distance is    33 min dist is  20
+ closest to   Student 159 is bus stops  stopNdx = 3 stop count= 20
+ distance is    720 min dist is  100000
+ distance is    522 min dist is  100000
+ distance is    38 min dist is  100000
+ distance is    434 min dist is  38
+ distance is    343 min dist is  38
+ distance is    761 min dist is  38
+ distance is    469 min dist is  38
+ distance is    50 min dist is  38
+ closest to   Student 160 is bus stops  stopNdx = 3 stop count= 20
+ distance is    767 min dist is  100000
+ distance is    770 min dist is  100000
+ distance is    451 min dist is  100000
+ distance is    54 min dist is  100000
+ distance is    371 min dist is  54
+ distance is    287 min dist is  54
+ distance is    30 min dist is  54
+ distance is    477 min dist is  30
+ closest to   Student 158 is bus stops   stopNdx = 16 stop count= 20
+ distance is    707 min dist is  100000
+ distance is    719 min dist is  100000
+ distance is    437 min dist is  100000
+ distance is    61 min dist is  100000
+ distance is    319 min dist is  61
+ distance is    287 min dist is  61
+ distance is    35 min dist is  61
+ distance is    458 min dist is  35
+ closest to   Student 155 is bus stops   stopNdx = 16 stop count= 20
+ distance is    734 min dist is  100000
+ distance is    704 min dist is  100000
+ distance is    358 min dist is  100000
+ distance is    41 min dist is  358
+ distance is    312 min dist is  41
+ distance is    374 min dist is  41
+ distance is    78 min dist is  41
+ distance is    385 min dist is  41
+ closest to   Student 95 is bus stops Stop 3  stopNdx = 4 stop count= 20
+ distance is    783 min dist is  100000
+ distance is    762 min dist is  100000
+ distance is    405 min dist is  100000
+ distance is    47 min dist is  100000
+ distance is    368 min dist is  47
+ distance is    346 min dist is  47
+ distance is    68 min dist is  47
+ distance is    434 min dist is  47
+ closest to   Student 94 is bus stops Stop 3  stopNdx = 4 stop count= 20
+ distance is    767 min dist is  100000
+ distance is    770 min dist is  100000
+ distance is    451 min dist is  100000
+ distance is    54 min dist is  100000
+ distance is    371 min dist is  54
+ distance is    287 min dist is  54
+ distance is    30 min dist is  54
+ distance is    477 min dist is  30
+ closest to   Student 92 is bus stops   stopNdx = 16 stop count= 20
+ distance is    707 min dist is  100000
+ distance is    719 min dist is  100000
+ distance is    437 min dist is  100000
+ distance is    61 min dist is  100000
+ distance is    319 min dist is  61
+ distance is    287 min dist is  61
+ distance is    35 min dist is  61
+ distance is    458 min dist is  35
+ closest to   Student 89 is bus stops   stopNdx = 16 stop count= 20
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='Sterling' AND `quadrant` = '2' ;
+SELECT * FROM `students` WHERE `school_name`='Sterling' AND `quadrant` = '2' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='Sterling' AND `quadrant` = '2' AND `student_group` > '0' ;
+ Looping  1 bus stops 
+ bustop  in group 320
+ closest to   Student 610 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 609 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 608 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 606 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 605 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 604 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 602 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 601 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 600 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 599 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 598 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 597 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 596 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 594 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 595 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 593 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 590 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 591 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 589 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 587 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 586 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 585 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 584 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 583 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 582 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 581 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 580 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 579 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 578 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 576 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 575 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 574 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 572 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 571 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 570 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 569 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 568 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 567 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 566 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 565 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 564 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 563 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 560 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 562 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 561 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 559 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 558 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 557 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 556 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 554 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 555 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 552 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 553 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 551 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 550 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 549 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 548 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 546 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 545 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 544 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 542 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 541 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 539 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 538 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 536 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 535 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 533 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 527 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 529 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 526 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 525 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 524 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 520 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 521 is bus stops  stopNdx = 2 stop count= 1
+ distance is    147 min dist is  100000
+ closest to   Student 522 is bus stops  stopNdx = 0 stop count= 1
+ closest to   Student 523 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 518 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 519 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 517 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 515 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 516 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 514 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 513 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 512 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 511 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 510 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 509 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 508 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 507 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 506 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 505 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 504 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 503 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 501 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 500 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 499 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 497 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 496 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 495 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 494 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 493 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 492 is bus stops  stopNdx = 2 stop count= 1
+ distance is    667 min dist is  100000
+ closest to   Student 491 is bus stops  stopNdx = 2 stop count= 1
+ distance is    626 min dist is  100000
+ closest to   Student 490 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 489 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 488 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 486 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 485 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 484 is bus stops  stopNdx = 2 stop count= 1
+ distance is    569 min dist is  100000
+ closest to   Student 482 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 480 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 481 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 479 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 478 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 477 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 476 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 474 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 475 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 473 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 472 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 471 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 470 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 469 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 468 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 467 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 462 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 458 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 460 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 461 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 456 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 452 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 449 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 451 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 448 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 447 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 416 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 417 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 415 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 414 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 413 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 410 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 411 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 409 is bus stops  stopNdx = 2 stop count= 1
+ distance is    438 min dist is  100000
+ closest to   Student 398 is bus stops  stopNdx = 2 stop count= 1
+ distance is    567 min dist is  100000
+ closest to   Student 399 is bus stops  stopNdx = 2 stop count= 1
+ distance is    591 min dist is  100000
+ closest to   Student 396 is bus stops  stopNdx = 2 stop count= 1
+ distance is    315 min dist is  100000
+ closest to   Student 394 is bus stops  stopNdx = 0 stop count= 1
+ distance is    366 min dist is  100000
+ closest to   Student 395 is bus stops  stopNdx = 0 stop count= 1
+ distance is    512 min dist is  100000
+ closest to   Student 392 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 384 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 383 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 381 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 382 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 380 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 378 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 377 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 376 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 375 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 365 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 360 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 359 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 351 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 345 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 344 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 341 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 325 is bus stops  stopNdx = 2 stop count= 1
+ distance is    784 min dist is  100000
+ closest to   Student 324 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 323 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 321 is bus stops  stopNdx = 2 stop count= 1
+ distance is    967 min dist is  100000
+ closest to   Student 320 is bus stops  stopNdx = 2 stop count= 1
+ distance is    1021 min dist is  100000
+ closest to   Student 319 is bus stops  stopNdx = 2 stop count= 1
+ distance is    871 min dist is  100000
+ closest to   Student 317 is bus stops  stopNdx = 2 stop count= 1
+ distance is    884 min dist is  100000
+ closest to   Student 316 is bus stops  stopNdx = 2 stop count= 1
+ distance is    812 min dist is  100000
+ closest to   Student 315 is bus stops  stopNdx = 2 stop count= 1
+ distance is    757 min dist is  100000
+ closest to   Student 314 is bus stops  stopNdx = 2 stop count= 1
+ distance is    330 min dist is  100000
+ closest to   Student 289 is bus stops  stopNdx = 0 stop count= 1
+ distance is    317 min dist is  100000
+ closest to   Student 286 is bus stops  stopNdx = 0 stop count= 1
+ distance is    765 min dist is  100000
+ closest to   Student 287 is bus stops  stopNdx = 2 stop count= 1
+ distance is    873 min dist is  100000
+ closest to   Student 285 is bus stops  stopNdx = 2 stop count= 1
+ distance is    446 min dist is  100000
+ closest to   Student 284 is bus stops  stopNdx = 2 stop count= 1
+ distance is    807 min dist is  100000
+ closest to   Student 282 is bus stops  stopNdx = 2 stop count= 1
+ distance is    279 min dist is  100000
+ closest to   Student 283 is bus stops  stopNdx = 0 stop count= 1
+ distance is    491 min dist is  100000
+ closest to   Student 281 is bus stops  stopNdx = 2 stop count= 1
+ distance is    318 min dist is  100000
+ closest to   Student 280 is bus stops  stopNdx = 0 stop count= 1
+ distance is    608 min dist is  100000
+ closest to   Student 279 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 267 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 260 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 261 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 259 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 257 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 256 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 254 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 255 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 253 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 251 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 250 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 249 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 248 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 235 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 231 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 227 is bus stops  stopNdx = 2 stop count= 1
+ closest to   Student 225 is bus stops  stopNdx = 2 stop count= 1
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='Sterling' AND `quadrant` = '3' ;
+SELECT * FROM `students` WHERE `school_name`='Sterling' AND `quadrant` = '3' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='Sterling' AND `quadrant` = '3' AND `student_group` > '0' ;
+ Looping  0 bus stops 
+ closest to   Student 446 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 445 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 444 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 443 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 441 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 440 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 439 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 379 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 355 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 354 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 353 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 350 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 349 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 347 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 346 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 342 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 343 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 340 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 339 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 338 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 337 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 336 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 335 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 334 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 333 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 332 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 331 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 330 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 329 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 328 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 327 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 326 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 313 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 312 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 311 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 310 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 309 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 308 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 306 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 305 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 278 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 276 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 275 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 274 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 271 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 272 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 270 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 269 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 268 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 266 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 263 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 265 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 264 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 262 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 233 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 234 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 230 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 229 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 226 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 224 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 180 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 181 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 182 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 179 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 177 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 176 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 174 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 86 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 85 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 84 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 83 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 82 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 81 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 80 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 79 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 77 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 78 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 76 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 75 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 74 is bus stops  stopNdx = 1 stop count= 0
+ in assignStudents2Stops...
+SELECT * FROM `school_bus_stops` WHERE `user_name`='jenna' AND `school_name`='Sterling' AND `quadrant` = '4' ;
+SELECT * FROM `students` WHERE `school_name`='Sterling' AND `quadrant` = '4' AND `student_special_needs` = 'N' ;
+SELECT * FROM `centroids` WHERE `user_name`='jenna' AND `school_name`='Sterling' AND `quadrant` = '4' AND `student_group` > '0' ;
+ Looping  0 bus stops 
+ closest to   Student 223 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 222 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 221 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 220 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 219 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 218 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 217 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 216 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 215 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 214 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 213 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 212 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 211 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 209 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 210 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 208 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 207 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 206 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 205 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 204 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 203 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 201 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 200 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 199 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 197 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 196 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 195 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 194 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 193 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 192 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 191 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 190 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 189 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 188 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 186 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 185 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 184 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 178 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 175 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 173 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 172 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 170 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 171 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 168 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 169 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 167 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 166 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 156 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 154 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 152 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 151 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 150 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 148 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 149 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 147 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 146 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 145 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 144 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 143 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 141 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 140 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 139 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 137 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 136 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 135 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 134 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 133 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 131 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 132 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 128 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 130 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 129 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 127 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 126 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 124 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 125 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 123 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 122 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 121 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 120 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 119 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 118 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 116 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 117 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 115 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 113 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 114 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 111 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 109 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 110 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 107 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 106 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 105 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 103 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 104 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 102 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 101 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 100 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 99 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 98 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 96 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 91 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 90 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 88 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 87 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 73 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 72 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 71 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 70 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 69 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 68 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 66 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 64 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 65 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 62 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 61 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 60 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 59 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 57 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 58 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 56 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 54 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 55 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 53 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 51 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 50 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 49 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 47 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 46 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 45 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 44 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 43 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 42 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 41 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 40 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 39 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 38 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 37 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 36 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 33 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 35 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 34 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 32 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 31 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 30 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 29 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 28 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 27 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 26 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 25 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 24 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 23 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 21 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 20 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 19 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 17 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 16 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 15 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 14 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 13 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 12 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 11 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 8 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 10 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 9 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 6 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 5 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 4 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 2 is bus stops  stopNdx = 1 stop count= 0
+ closest to   Student 1 is bus stops  stopNdx = 1 stop count= 0

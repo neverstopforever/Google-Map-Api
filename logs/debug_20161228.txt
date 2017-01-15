@@ -1,0 +1,3 @@
+POST[schoolNameSelect = 
+POST[schoolNameSelect = Sterling
+[12/28/2016 02:21:53]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;

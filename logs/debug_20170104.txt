@@ -1,0 +1,583 @@
+POST[schoolNameSelect = 
+POST[schoolNameSelect = 
+POST[schoolNameSelect = Sterling
+[01/04/2017 07:52:29]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 07:58:16]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:07:20]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:10:15]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:10:51]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:11:09]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:17:03]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:17:45]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:17:55]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:20:45]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:23:45]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:23:52]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:36:02]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:40:39]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:41:09]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:41:30]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:52:32]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:54:21]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:54:52]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 08:55:30]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = 
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:50:58]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:51:05]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:52:16]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:52:46]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:57:03]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:57:47]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:58:27]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:58:50]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:59:22]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:59:25]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:00:04]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:00:39]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:02:39]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:03:20]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:03:31]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:04:00]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:04:38]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:05:59]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:07:13]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:07:39]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:08:15]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:08:30]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:08:55]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:09:07]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:09:18]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:09:38]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:10:35]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:11:08]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:11:18]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:11:31]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:11:35]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:11:51]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:11:55]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:12:15]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 10:12:21]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:13:11]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:13:45]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:14:05]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:14:19]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:14:25]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:14:56]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:16:40]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:17:43]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:17:58]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:18:05]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:18:12]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:26:24]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:27:44]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:28:10]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:28:16]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:31:41]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:34:33]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:35:22]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:35:28]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:36:32]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:37:29]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:38:42]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:40:06]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:41:13]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:42:04]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:42:37]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:44:28]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:45:17]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:46:26]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:49:18]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:49:44]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:50:07]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:50:43]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:52:25]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:53:35]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:53:59]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:54:37]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:54:50]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:55:52]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:56:08]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:56:44]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 10:57:31]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 11:15:19]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 11:24:20]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 11:28:26]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 11:31:05]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 11:32:07]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 11:34:12]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 11:35:14]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 11:38:17]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 11:38:41]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 11:39:24]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 11:49:00]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 11:50:42]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 11:51:44]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 01:16:16]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:19:38]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:20:27]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:21:16]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:22:20]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 01:24:57]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:25:09]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:25:54]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:26:27]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:26:58]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:28:53]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:29:12]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:29:26]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:29:37]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:30:08]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:30:40]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:31:41]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:32:18]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:33:02]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:33:24]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:41:26]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:42:35]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:43:39]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:44:02]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:44:23]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:47:13]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 01:47:18]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:49:44]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:56:24]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 01:56:38]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:57:10]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 01:57:52]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 01:58:22]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 01:59:37]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 02:00:03]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:02:29]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:04:31]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:04:41]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:04:58]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:05:24]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:07:21]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:07:27]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:08:53]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:09:46]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:10:25]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:10:48]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:11:42]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:14:35]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:15:29]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:15:49]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:16:43]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:17:15]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:17:15]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:17:16]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:17:17]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:17:28]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:19:38]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:20:31]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:20:48]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:21:11]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:22:04]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:22:53]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:23:26]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:23:43]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:23:45]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:23:45]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:23:45]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:23:45]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:24:06]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 02:24:28]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:24:35]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 02:24:46]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 02:25:18]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:27:13]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:29:24]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 02:29:52]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 02:31:51]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 02:32:34]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 02:33:01]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 02:33:25]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:33:45]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 02:34:05]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:34:31]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:37:04]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:37:28]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:38:08]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:38:22]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 02:38:27]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:39:54]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:41:38]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:43:55]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:44:01]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:45:21]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:45:51]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:46:08]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:47:14]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:48:36]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 02:51:34]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 02:51:47]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 03:02:36]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 03:03:08]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 03:03:56]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 03:04:04]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 03:04:06]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 03:05:37]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 03:06:33]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 03:06:35]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 03:06:37]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 03:06:39]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 03:06:40]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 03:06:41]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 03:06:43]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 03:06:56]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 03:27:14]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = noam
+[01/04/2017 03:27:38]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 03:28:09]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 03:28:47]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 03:29:56]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 03:32:32]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 03:35:27]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 03:35:37]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 03:46:18]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 04:07:06]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 04:07:22]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 04:41:51]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 04:42:14]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = noam
+[01/04/2017 04:42:33]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 04:42:53]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = noam
+[01/04/2017 04:42:56]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 04:45:39]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 04:45:52]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 04:46:13]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 04:47:53]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 04:48:10]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 04:49:02]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 04:49:43]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 04:50:02]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 04:51:10]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 04:51:46]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 06:03:25]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 06:03:59]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 06:04:23]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 06:04:46]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = Lenape
+[01/04/2017 06:04:51]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Lenape' ;
+POST[schoolNameSelect = noam
+[01/04/2017 06:08:16]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 06:22:20]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 06:32:01]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 06:35:15]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 06:39:55]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 06:59:27]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 06:59:41]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:00:36]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:03]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:07]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:08]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:08]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:08]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:09]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:09]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:09]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:10]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:10]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:10]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:11]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:11]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:11]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:12]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:12]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:12]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:13]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:13]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:13]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = noam
+[01/04/2017 07:36:14]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'noam' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:12:39]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:12:46]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:12:49]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:12:53]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:12:56]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[01/04/2017 09:12:58]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;

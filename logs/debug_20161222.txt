@@ -1,0 +1,24 @@
+POST[schoolNameSelect = 
+POST[schoolNameSelect = Sterling
+[12/22/2016 12:14:08]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[12/22/2016 12:19:02]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[12/22/2016 12:21:36]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[12/22/2016 12:24:32]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[12/22/2016 12:30:43]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[12/22/2016 12:38:40]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[12/22/2016 12:40:57]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[12/22/2016 01:23:08]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[12/22/2016 01:30:46]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = Sterling
+[12/22/2016 01:37:40]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
+POST[schoolNameSelect = 
+POST[schoolNameSelect = Sterling
+[12/22/2016 02:08:27]: SELECT * FROM `school_bus_stops` WHERE `user_name` = 'jenna' and `school_name` = 'Sterling' ;
